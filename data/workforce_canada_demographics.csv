@@ -1,0 +1,70 @@
+Type of professional,N.L.,P.E.I.,N.S.,N.B.,Que.,Ont.,Man. ,Sask.,Alta.,B.C.,Y.T.,N.W.T. ,Nun.
+Audiologists ,N,N,Y,N,Y,Y,N,N,Y,Y,N,N,N
+Chiropractors ,N,N,N,N,Y,Y,N,N,N,N,N,N,N
+Combined laboratory and X-ray technologists,N,N,N,N,N,N,N,Y,Y,N,N,N,N
+Dental assistants,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N
+Dental hygienists,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Dentists ,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+Denturists,N,N,N,N,Y,Y,N,N,Y,N,N,N,N
+Dietitians,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Environmental public health professionals,N,N,Y,N,Y,Y,N,Y,Y,Y,N,N,N
+Genetic counsellors,N,N,N,N,Y,Y,Y,N,N,Y,N,N,N
+Health information management professionals,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+Licensed practical nurses†,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Medical laboratory technologists,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Medical physicists,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+Medical radiation technologists,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Midwives,N,N,N,N,Y,Y,Y,N,Y,Y,N,N,N
+Nurse practitioners,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Occupational therapists,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+Opticians ,N,N,N,N,Y,Y,N,N,Y,Y,N,N,N
+Optometrists ,N,N,N,N,Y,Y,N,N,N,N,N,N,N
+Paramedics ,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Personal support workers,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Pharmacists,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+Pharmacy technicians,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,N
+Physician assistants,N,N,N,N,N,Y,Y,N,N,N,N,N,N
+Physicians,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+   Family medicine ,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+   Specialists,,,,,,,,,,,,,
+    Medical specialists,,,,,,,,,,,,,
+           Clinical specialists,,,,,,,,,,,,,
+              Internal medicine ,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Medical genetics,N,N,N,N,Y,Y,Y,N,Y,Y,N,N,N
+              Dermatology,N,N,Y,N,Y,Y,N,N,Y,Y,N,N,N
+              Neurology,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Pediatrics,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Physical medicine and rehabilitation,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Psychiatry,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Public health and preventive medicine,N,N,N,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Emergency medicine,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Anesthesiology,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Nuclear medicine,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              Diagnostic radiology,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Radiation oncology,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+           Laboratory specialists,,,,,,,,,,,,,
+              Medical biochemistry,N,N,N,N,Y,Y,N,N,N,Y,N,N,N
+              Medical microbiology,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              General pathology,N,N,Y,N,N,Y,N,Y,Y,Y,N,N,N
+              Neuropathology,N,N,N,N,Y,Y,N,N,Y,Y,N,N,N
+              Hematological pathology,N,N,Y,N,N,Y,N,N,Y,Y,N,N,N
+              Anatomical pathology,Y,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+   Surgical specialists,,,,,,,,,,,,,
+              General surgery,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Cardiac surgery,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              Neurosurgery,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Obstetrics and gynecology,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Ophthalmology,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Otolaryngology — Head and neck surgery,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              Orthopedic surgery,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+              Plastic surgery,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              Urology,N,N,Y,N,Y,Y,Y,N,Y,Y,N,N,N
+              Vascular surgery,N,N,N,N,Y,Y,Y,N,Y,Y,N,N,N
+Physiotherapists,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,N
+Psychologists ,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Psychotherapists/counselling therapists,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N
+Registered nurses,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+Registered psychiatric nurses‡,,,,,,,Y,Y,Y,Y,N,,
+Respiratory therapists,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,N,N
+Social workers ,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N
+Speech–language pathologists,N,N,Y,N,Y,Y,N,N,Y,Y,N,N,N
