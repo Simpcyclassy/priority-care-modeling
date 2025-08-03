@@ -1,0 +1,2041 @@
+reporting_level,province,indicator,metric,data_year,unit_of_measurement,indicator_result
+Provincial,Alberta,Bladder Cancer Surgery,50th Percentile,2019FY,Days,29.0
+Provincial,Alberta,Bladder Cancer Surgery,90th Percentile,2019FY,Days,68.0
+Provincial,Alberta,Bladder Cancer Surgery,Volume,2019FY,Number of cases,2312.0
+Provincial,Alberta,Breast Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,Alberta,Breast Cancer Surgery,90th Percentile,2019FY,Days,36.0
+Provincial,Alberta,Breast Cancer Surgery,Volume,2019FY,Number of cases,3787.0
+Provincial,Alberta,CABG,50th Percentile,2019FY,Days,7.28
+Provincial,Alberta,CABG,90th Percentile,2019FY,Days,76.23
+Provincial,Alberta,CABG,Volume,2019FY,Number of cases,1100.0
+Provincial,Alberta,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,45.1
+Provincial,Alberta,Cataract Surgery,50th Percentile,2019FY,Days,128.0
+Provincial,Alberta,Cataract Surgery,90th Percentile,2019FY,Days,345.0
+Provincial,Alberta,Cataract Surgery,Volume,2019FY,Number of cases,27370.0
+Provincial,Alberta,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,24.0
+Provincial,Alberta,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,54.0
+Provincial,Alberta,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,1243.0
+Provincial,Alberta,CT Scan,50th Percentile,2019FY,Days,27.0
+Provincial,Alberta,CT Scan,90th Percentile,2019FY,Days,106.0
+Provincial,Alberta,CT Scan,Volume,2019FY,Number of cases,128129.0
+Provincial,Alberta,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,65.5
+Provincial,Alberta,Hip Replacement,50th Percentile,2019FY,Days,135.0
+Provincial,Alberta,Hip Replacement,90th Percentile,2019FY,Days,279.0
+Provincial,Alberta,Hip Replacement,Volume,2019FY,Number of cases,4505.0
+Provincial,Alberta,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,61.5
+Provincial,Alberta,Knee Replacement,50th Percentile,2019FY,Days,148.0
+Provincial,Alberta,Knee Replacement,90th Percentile,2019FY,Days,328.0
+Provincial,Alberta,Knee Replacement,Volume,2019FY,Number of cases,6100.0
+Provincial,Alberta,Lung Cancer Surgery,50th Percentile,2019FY,Days,21.0
+Provincial,Alberta,Lung Cancer Surgery,90th Percentile,2019FY,Days,48.0
+Provincial,Alberta,Lung Cancer Surgery,Volume,2019FY,Number of cases,750.0
+Provincial,Alberta,MRI Scan,50th Percentile,2019FY,Days,74.0
+Provincial,Alberta,MRI Scan,90th Percentile,2019FY,Days,337.0
+Provincial,Alberta,MRI Scan,Volume,2019FY,Number of cases,118288.0
+Provincial,Alberta,Prostate Cancer Surgery,50th Percentile,2019FY,Days,52.0
+Provincial,Alberta,Prostate Cancer Surgery,90th Percentile,2019FY,Days,119.0
+Provincial,Alberta,Prostate Cancer Surgery,Volume,2019FY,Number of cases,1165.0
+Provincial,Alberta,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,98.3
+Provincial,Alberta,Radiation Therapy,50th Percentile,2019FY,Days,8.0
+Provincial,Alberta,Radiation Therapy,90th Percentile,2019FY,Days,20.0
+Provincial,Alberta,Radiation Therapy,Volume,2019FY,Number of cases,9104.0
+Provincial,British Columbia,Bladder Cancer Surgery,50th Percentile,2019FY,Days,24.0
+Provincial,British Columbia,Bladder Cancer Surgery,90th Percentile,2019FY,Days,56.0
+Provincial,British Columbia,Bladder Cancer Surgery,Volume,2019FY,Number of cases,3854.0
+Provincial,British Columbia,Breast Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,British Columbia,Breast Cancer Surgery,90th Percentile,2019FY,Days,43.0
+Provincial,British Columbia,Breast Cancer Surgery,Volume,2019FY,Number of cases,4243.0
+Provincial,British Columbia,CABG,50th Percentile,2019FY,Days,6.0
+Provincial,British Columbia,CABG,90th Percentile,2019FY,Days,44.0
+Provincial,British Columbia,CABG,Volume,2019FY,Number of cases,1993.0
+Provincial,British Columbia,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,68.3
+Provincial,British Columbia,Cataract Surgery,50th Percentile,2019FY,Days,68.0
+Provincial,British Columbia,Cataract Surgery,90th Percentile,2019FY,Days,238.0
+Provincial,British Columbia,Cataract Surgery,Volume,2019FY,Number of cases,63547.0
+Provincial,British Columbia,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,21.0
+Provincial,British Columbia,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,50.0
+Provincial,British Columbia,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,1948.0
+Provincial,British Columbia,CT Scan,50th Percentile,2019FY,Days,22.0
+Provincial,British Columbia,CT Scan,90th Percentile,2019FY,Days,106.0
+Provincial,British Columbia,CT Scan,Volume,2019FY,Number of cases,289518.0
+Provincial,British Columbia,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,75.9
+Provincial,British Columbia,Hip Replacement,50th Percentile,2019FY,Days,99.0
+Provincial,British Columbia,Hip Replacement,90th Percentile,2019FY,Days,285.0
+Provincial,British Columbia,Hip Replacement,Volume,2019FY,Number of cases,7429.0
+Provincial,British Columbia,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,67.6
+Provincial,British Columbia,Knee Replacement,50th Percentile,2019FY,Days,120.0
+Provincial,British Columbia,Knee Replacement,90th Percentile,2019FY,Days,321.0
+Provincial,British Columbia,Knee Replacement,Volume,2019FY,Number of cases,11207.0
+Provincial,British Columbia,Lung Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,British Columbia,Lung Cancer Surgery,90th Percentile,2019FY,Days,49.0
+Provincial,British Columbia,Lung Cancer Surgery,Volume,2019FY,Number of cases,1062.0
+Provincial,British Columbia,MRI Scan,50th Percentile,2019FY,Days,47.0
+Provincial,British Columbia,MRI Scan,90th Percentile,2019FY,Days,148.0
+Provincial,British Columbia,MRI Scan,Volume,2019FY,Number of cases,171003.0
+Provincial,British Columbia,Prostate Cancer Surgery,50th Percentile,2019FY,Days,40.0
+Provincial,British Columbia,Prostate Cancer Surgery,90th Percentile,2019FY,Days,85.0
+Provincial,British Columbia,Prostate Cancer Surgery,Volume,2019FY,Number of cases,1071.0
+Provincial,British Columbia,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,92.0
+Provincial,British Columbia,Radiation Therapy,50th Percentile,2019FY,Days,11.0
+Provincial,British Columbia,Radiation Therapy,90th Percentile,2019FY,Days,27.0
+Provincial,British Columbia,Radiation Therapy,Volume,2019FY,Number of cases,12725.0
+Provincial,Manitoba,Bladder Cancer Surgery,50th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,90th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,Volume,2019FY,Number of cases,N/A
+Provincial,Manitoba,Breast Cancer Surgery,50th Percentile,2019FY,Days,27.0
+Provincial,Manitoba,Breast Cancer Surgery,90th Percentile,2019FY,Days,53.0
+Provincial,Manitoba,Breast Cancer Surgery,Volume,2019FY,Number of cases,403.0
+Provincial,Manitoba,CABG,50th Percentile,2019FY,Days,8.0
+Provincial,Manitoba,CABG,90th Percentile,2019FY,Days,60.0
+Provincial,Manitoba,CABG,Volume,2019FY,Number of cases,415.0
+Provincial,Manitoba,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,34.0
+Provincial,Manitoba,Cataract Surgery,50th Percentile,2019FY,Days,161.0
+Provincial,Manitoba,Cataract Surgery,90th Percentile,2019FY,Days,425.0
+Provincial,Manitoba,Cataract Surgery,Volume,2019FY,Number of cases,6908.0
+Provincial,Manitoba,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,N/A
+Provincial,Manitoba,CT Scan,50th Percentile,2019FY,Days,22.0
+Provincial,Manitoba,CT Scan,90th Percentile,2019FY,Days,81.0
+Provincial,Manitoba,CT Scan,Volume,2019FY,Number of cases,108797.0
+Provincial,Manitoba,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,58.0
+Provincial,Manitoba,Hip Replacement,50th Percentile,2019FY,Days,155.0
+Provincial,Manitoba,Hip Replacement,90th Percentile,2019FY,Days,363.0
+Provincial,Manitoba,Hip Replacement,Volume,2019FY,Number of cases,1751.0
+Provincial,Manitoba,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,47.0
+Provincial,Manitoba,Knee Replacement,50th Percentile,2019FY,Days,198.0
+Provincial,Manitoba,Knee Replacement,90th Percentile,2019FY,Days,416.0
+Provincial,Manitoba,Knee Replacement,Volume,2019FY,Number of cases,2793.0
+Provincial,Manitoba,Lung Cancer Surgery,50th Percentile,2019FY,Days,29.0
+Provincial,Manitoba,Lung Cancer Surgery,90th Percentile,2019FY,Days,62.0
+Provincial,Manitoba,Lung Cancer Surgery,Volume,2019FY,Number of cases,323.0
+Provincial,Manitoba,MRI Scan,50th Percentile,2019FY,Days,60.0
+Provincial,Manitoba,MRI Scan,90th Percentile,2019FY,Days,141.0
+Provincial,Manitoba,MRI Scan,Volume,2019FY,Number of cases,76893.0
+Provincial,Manitoba,Prostate Cancer Surgery,50th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,90th Percentile,2019FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,Volume,2019FY,Number of cases,N/A
+Provincial,Manitoba,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,100.0
+Provincial,Manitoba,Radiation Therapy,50th Percentile,2019FY,Days,10.0
+Provincial,Manitoba,Radiation Therapy,90th Percentile,2019FY,Days,27.0
+Provincial,Manitoba,Radiation Therapy,Volume,2019FY,Number of cases,3657.0
+Provincial,New Brunswick,Bladder Cancer Surgery,50th Percentile,2019FY,Days,24.0
+Provincial,New Brunswick,Bladder Cancer Surgery,90th Percentile,2019FY,Days,69.0
+Provincial,New Brunswick,Bladder Cancer Surgery,Volume,2019FY,Number of cases,518.0
+Provincial,New Brunswick,Breast Cancer Surgery,50th Percentile,2019FY,Days,20.0
+Provincial,New Brunswick,Breast Cancer Surgery,90th Percentile,2019FY,Days,42.0
+Provincial,New Brunswick,Breast Cancer Surgery,Volume,2019FY,Number of cases,656.0
+Provincial,New Brunswick,CABG,50th Percentile,2019FY,Days,8.0
+Provincial,New Brunswick,CABG,90th Percentile,2019FY,Days,159.0
+Provincial,New Brunswick,CABG,Volume,2019FY,Number of cases,422.0
+Provincial,New Brunswick,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,65.0
+Provincial,New Brunswick,Cataract Surgery,50th Percentile,2019FY,Days,65.0
+Provincial,New Brunswick,Cataract Surgery,90th Percentile,2019FY,Days,222.0
+Provincial,New Brunswick,Cataract Surgery,Volume,2019FY,Number of cases,11564.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,16.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,43.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,380.0
+Provincial,New Brunswick,CT Scan,50th Percentile,2019FY,Days,N/A
+Provincial,New Brunswick,CT Scan,90th Percentile,2019FY,Days,N/A
+Provincial,New Brunswick,CT Scan,Volume,2019FY,Number of cases,N/A
+Provincial,New Brunswick,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,47.0
+Provincial,New Brunswick,Hip Replacement,50th Percentile,2019FY,Days,196.0
+Provincial,New Brunswick,Hip Replacement,90th Percentile,2019FY,Days,411.0
+Provincial,New Brunswick,Hip Replacement,Volume,2019FY,Number of cases,1100.0
+Provincial,New Brunswick,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,43.0
+Provincial,New Brunswick,Knee Replacement,50th Percentile,2019FY,Days,205.0
+Provincial,New Brunswick,Knee Replacement,90th Percentile,2019FY,Days,496.0
+Provincial,New Brunswick,Knee Replacement,Volume,2019FY,Number of cases,1851.0
+Provincial,New Brunswick,Lung Cancer Surgery,50th Percentile,2019FY,Days,32.0
+Provincial,New Brunswick,Lung Cancer Surgery,90th Percentile,2019FY,Days,64.0
+Provincial,New Brunswick,Lung Cancer Surgery,Volume,2019FY,Number of cases,138.0
+Provincial,New Brunswick,MRI Scan,50th Percentile,2019FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,90th Percentile,2019FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,Volume,2019FY,Number of cases,N/A
+Provincial,New Brunswick,Prostate Cancer Surgery,50th Percentile,2019FY,Days,32.0
+Provincial,New Brunswick,Prostate Cancer Surgery,90th Percentile,2019FY,Days,72.0
+Provincial,New Brunswick,Prostate Cancer Surgery,Volume,2019FY,Number of cases,177.0
+Provincial,New Brunswick,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,92.5647058823529
+Provincial,New Brunswick,Radiation Therapy,50th Percentile,2019FY,Days,12.0
+Provincial,New Brunswick,Radiation Therapy,90th Percentile,2019FY,Days,27.0
+Provincial,New Brunswick,Radiation Therapy,Volume,2019FY,Number of cases,2125.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,50th Percentile,2019FY,Days,20.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,90th Percentile,2019FY,Days,42.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,Volume,2019FY,Number of cases,254.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,50th Percentile,2019FY,Days,16.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,90th Percentile,2019FY,Days,33.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,Volume,2019FY,Number of cases,455.0
+Provincial,Newfoundland and Labrador,CABG,50th Percentile,2019FY,Days,9.0
+Provincial,Newfoundland and Labrador,CABG,90th Percentile,2019FY,Days,161.0
+Provincial,Newfoundland and Labrador,CABG,Volume,2019FY,Number of cases,326.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,61.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,50th Percentile,2019FY,Days,96.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,90th Percentile,2019FY,Days,209.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,Volume,2019FY,Number of cases,2613.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,14.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,33.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,365.0
+Provincial,Newfoundland and Labrador,CT Scan,50th Percentile,2019FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,90th Percentile,2019FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,Volume,2019FY,Number of cases,86600.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2019FY,Proportion,95.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2019FY,Hours,23.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2019FY,Hours,43.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,Volume,2019FY,Number of cases,424.0
+Provincial,Newfoundland and Labrador,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,73.0
+Provincial,Newfoundland and Labrador,Hip Replacement,50th Percentile,2019FY,Days,127.0
+Provincial,Newfoundland and Labrador,Hip Replacement,90th Percentile,2019FY,Days,260.0
+Provincial,Newfoundland and Labrador,Hip Replacement,Volume,2019FY,Number of cases,407.0
+Provincial,Newfoundland and Labrador,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,66.0
+Provincial,Newfoundland and Labrador,Knee Replacement,50th Percentile,2019FY,Days,147.0
+Provincial,Newfoundland and Labrador,Knee Replacement,90th Percentile,2019FY,Days,292.0
+Provincial,Newfoundland and Labrador,Knee Replacement,Volume,2019FY,Number of cases,673.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,90th Percentile,2019FY,Days,40.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,Volume,2019FY,Number of cases,85.0
+Provincial,Newfoundland and Labrador,MRI Scan,50th Percentile,2019FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,90th Percentile,2019FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,Volume,2019FY,Number of cases,20135.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,50th Percentile,2019FY,Days,43.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,90th Percentile,2019FY,Days,63.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,Volume,2019FY,Number of cases,114.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,99.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,50th Percentile,2019FY,Days,15.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,90th Percentile,2019FY,Days,22.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,Volume,2019FY,Number of cases,1082.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,50th Percentile,2019FY,Days,33.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,90th Percentile,2019FY,Days,91.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,Volume,2019FY,Number of cases,722.0
+Provincial,Nova Scotia,Breast Cancer Surgery,50th Percentile,2019FY,Days,21.0
+Provincial,Nova Scotia,Breast Cancer Surgery,90th Percentile,2019FY,Days,41.0
+Provincial,Nova Scotia,Breast Cancer Surgery,Volume,2019FY,Number of cases,986.0
+Provincial,Nova Scotia,CABG,50th Percentile,2019FY,Days,6.0
+Provincial,Nova Scotia,CABG,90th Percentile,2019FY,Days,42.0
+Provincial,Nova Scotia,CABG,Volume,2019FY,Number of cases,278.0
+Provincial,Nova Scotia,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,56.0
+Provincial,Nova Scotia,Cataract Surgery,50th Percentile,2019FY,Days,91.0
+Provincial,Nova Scotia,Cataract Surgery,90th Percentile,2019FY,Days,265.0
+Provincial,Nova Scotia,Cataract Surgery,Volume,2019FY,Number of cases,7402.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,25.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,54.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,504.0
+Provincial,Nova Scotia,CT Scan,50th Percentile,2019FY,Days,25.0
+Provincial,Nova Scotia,CT Scan,90th Percentile,2019FY,Days,84.0
+Provincial,Nova Scotia,CT Scan,Volume,2019FY,Number of cases,117578.0
+Provincial,Nova Scotia,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,61.6
+Provincial,Nova Scotia,Hip Replacement,50th Percentile,2019FY,Days,146.0
+Provincial,Nova Scotia,Hip Replacement,90th Percentile,2019FY,Days,442.0
+Provincial,Nova Scotia,Hip Replacement,Volume,2019FY,Number of cases,1552.0
+Provincial,Nova Scotia,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,48.0
+Provincial,Nova Scotia,Knee Replacement,50th Percentile,2019FY,Days,190.0
+Provincial,Nova Scotia,Knee Replacement,90th Percentile,2019FY,Days,548.0
+Provincial,Nova Scotia,Knee Replacement,Volume,2019FY,Number of cases,2594.0
+Provincial,Nova Scotia,Lung Cancer Surgery,50th Percentile,2019FY,Days,42.0
+Provincial,Nova Scotia,Lung Cancer Surgery,90th Percentile,2019FY,Days,86.0
+Provincial,Nova Scotia,Lung Cancer Surgery,Volume,2019FY,Number of cases,347.0
+Provincial,Nova Scotia,MRI Scan,50th Percentile,2019FY,Days,46.0
+Provincial,Nova Scotia,MRI Scan,90th Percentile,2019FY,Days,247.0
+Provincial,Nova Scotia,MRI Scan,Volume,2019FY,Number of cases,41870.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,50th Percentile,2019FY,Days,52.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,90th Percentile,2019FY,Days,103.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,Volume,2019FY,Number of cases,186.0
+Provincial,Nova Scotia,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,96.7
+Provincial,Nova Scotia,Radiation Therapy,50th Percentile,2019FY,Days,9.0
+Provincial,Nova Scotia,Radiation Therapy,90th Percentile,2019FY,Days,23.0
+Provincial,Nova Scotia,Radiation Therapy,Volume,2019FY,Number of cases,3179.0
+Provincial,Ontario,Bladder Cancer Surgery,50th Percentile,2019FY,Days,24.0
+Provincial,Ontario,Bladder Cancer Surgery,90th Percentile,2019FY,Days,62.0
+Provincial,Ontario,Bladder Cancer Surgery,Volume,2019FY,Number of cases,11419.0
+Provincial,Ontario,Breast Cancer Surgery,50th Percentile,2019FY,Days,16.0
+Provincial,Ontario,Breast Cancer Surgery,90th Percentile,2019FY,Days,32.0
+Provincial,Ontario,Breast Cancer Surgery,Volume,2019FY,Number of cases,12713.0
+Provincial,Ontario,CABG,50th Percentile,2019FY,Days,7.0
+Provincial,Ontario,CABG,90th Percentile,2019FY,Days,51.0
+Provincial,Ontario,CABG,Volume,2019FY,Number of cases,6485.0
+Provincial,Ontario,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,71.6437100969496
+Provincial,Ontario,Cataract Surgery,50th Percentile,2019FY,Days,64.0
+Provincial,Ontario,Cataract Surgery,90th Percentile,2019FY,Days,219.0
+Provincial,Ontario,Cataract Surgery,Volume,2019FY,Number of cases,135328.0
+Provincial,Ontario,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,Ontario,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,41.0
+Provincial,Ontario,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,4813.0
+Provincial,Ontario,CT Scan,50th Percentile,2019FY,Days,6.0
+Provincial,Ontario,CT Scan,90th Percentile,2019FY,Days,51.0
+Provincial,Ontario,CT Scan,Volume,2019FY,Number of cases,1007677.0
+Provincial,Ontario,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,84.5092718227047
+Provincial,Ontario,Hip Replacement,50th Percentile,2019FY,Days,76.0
+Provincial,Ontario,Hip Replacement,90th Percentile,2019FY,Days,236.0
+Provincial,Ontario,Hip Replacement,Volume,2019FY,Number of cases,17688.0
+Provincial,Ontario,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,80.1637197118533
+Provincial,Ontario,Knee Replacement,50th Percentile,2019FY,Days,85.0
+Provincial,Ontario,Knee Replacement,90th Percentile,2019FY,Days,283.0
+Provincial,Ontario,Knee Replacement,Volume,2019FY,Number of cases,30540.0
+Provincial,Ontario,Lung Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,Ontario,Lung Cancer Surgery,90th Percentile,2019FY,Days,39.0
+Provincial,Ontario,Lung Cancer Surgery,Volume,2019FY,Number of cases,2985.0
+Provincial,Ontario,MRI Scan,50th Percentile,2019FY,Days,35.0
+Provincial,Ontario,MRI Scan,90th Percentile,2019FY,Days,118.0
+Provincial,Ontario,MRI Scan,Volume,2019FY,Number of cases,718190.0
+Provincial,Ontario,Prostate Cancer Surgery,50th Percentile,2019FY,Days,38.0
+Provincial,Ontario,Prostate Cancer Surgery,90th Percentile,2019FY,Days,106.0
+Provincial,Ontario,Prostate Cancer Surgery,Volume,2019FY,Number of cases,2609.0
+Provincial,Ontario,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,98.19
+Provincial,Ontario,Radiation Therapy,50th Percentile,2019FY,Days,9.1
+Provincial,Ontario,Radiation Therapy,90th Percentile,2019FY,Days,18.2
+Provincial,Ontario,Radiation Therapy,Volume,2019FY,Number of cases,35213.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,50th Percentile,2019FY,Days,32.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,90th Percentile,2019FY,Days,69.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,Volume,2019FY,Number of cases,84.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,50th Percentile,2019FY,Days,16.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,90th Percentile,2019FY,Days,29.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,Volume,2019FY,Number of cases,106.0
+Provincial,Prince Edward Island,CABG,50th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,CABG,90th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,CABG,Volume,2019FY,Number of cases,N/A
+Provincial,Prince Edward Island,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,28.0
+Provincial,Prince Edward Island,Cataract Surgery,50th Percentile,2019FY,Days,172.5
+Provincial,Prince Edward Island,Cataract Surgery,90th Percentile,2019FY,Days,376.9
+Provincial,Prince Edward Island,Cataract Surgery,Volume,2019FY,Number of cases,1531.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,20.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,40.2
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,83.0
+Provincial,Prince Edward Island,CT Scan,50th Percentile,2019FY,Days,23.1
+Provincial,Prince Edward Island,CT Scan,90th Percentile,2019FY,Days,70.2
+Provincial,Prince Edward Island,CT Scan,Volume,2019FY,Number of cases,9198.0
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2019FY,Proportion,96.3
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2019FY,Hours,13.3
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2019FY,Hours,37.5
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,Volume,2019FY,Number of cases,192.0
+Provincial,Prince Edward Island,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,57.0
+Provincial,Prince Edward Island,Hip Replacement,50th Percentile,2019FY,Days,160.5
+Provincial,Prince Edward Island,Hip Replacement,90th Percentile,2019FY,Days,398.4
+Provincial,Prince Edward Island,Hip Replacement,Volume,2019FY,Number of cases,230.0
+Provincial,Prince Edward Island,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,28.1
+Provincial,Prince Edward Island,Knee Replacement,50th Percentile,2019FY,Days,255.0
+Provincial,Prince Edward Island,Knee Replacement,90th Percentile,2019FY,Days,407.4
+Provincial,Prince Edward Island,Knee Replacement,Volume,2019FY,Number of cases,356.0
+Provincial,Prince Edward Island,Lung Cancer Surgery,50th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,90th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,Volume,2019FY,Number of cases,N/A
+Provincial,Prince Edward Island,MRI Scan,50th Percentile,2019FY,Days,38.2
+Provincial,Prince Edward Island,MRI Scan,90th Percentile,2019FY,Days,209.9
+Provincial,Prince Edward Island,MRI Scan,Volume,2019FY,Number of cases,4594.0
+Provincial,Prince Edward Island,Prostate Cancer Surgery,50th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,90th Percentile,2019FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,Volume,2019FY,Number of cases,N/A
+Provincial,Prince Edward Island,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,97.5
+Provincial,Prince Edward Island,Radiation Therapy,50th Percentile,2019FY,Days,11.0
+Provincial,Prince Edward Island,Radiation Therapy,90th Percentile,2019FY,Days,22.0
+Provincial,Prince Edward Island,Radiation Therapy,Volume,2019FY,Number of cases,512.0
+Provincial,Quebec,Bladder Cancer Surgery,50th Percentile,2019FY,Days,25.0
+Provincial,Quebec,Bladder Cancer Surgery,90th Percentile,2019FY,Days,50.0
+Provincial,Quebec,Bladder Cancer Surgery,Volume,2019FY,Number of cases,6983.0
+Provincial,Quebec,Breast Cancer Surgery,50th Percentile,2019FY,Days,20.0
+Provincial,Quebec,Breast Cancer Surgery,90th Percentile,2019FY,Days,40.0
+Provincial,Quebec,Breast Cancer Surgery,Volume,2019FY,Number of cases,9244.0
+Provincial,Quebec,CABG,50th Percentile,2019FY,Days,N/A
+Provincial,Quebec,CABG,90th Percentile,2019FY,Days,N/A
+Provincial,Quebec,CABG,Volume,2019FY,Number of cases,N/A
+Provincial,Quebec,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,80.3282374100719
+Provincial,Quebec,Cataract Surgery,50th Percentile,2019FY,Days,42.0
+Provincial,Quebec,Cataract Surgery,90th Percentile,2019FY,Days,156.0
+Provincial,Quebec,Cataract Surgery,Volume,2019FY,Number of cases,102304.0
+Provincial,Quebec,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,21.0
+Provincial,Quebec,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,41.0
+Provincial,Quebec,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,4134.0
+Provincial,Quebec,CT Scan,50th Percentile,2019FY,Days,N/A
+Provincial,Quebec,CT Scan,90th Percentile,2019FY,Days,N/A
+Provincial,Quebec,CT Scan,Volume,2019FY,Number of cases,N/A
+Provincial,Quebec,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,72.4398131512756
+Provincial,Quebec,Hip Replacement,50th Percentile,2019FY,Days,111.0
+Provincial,Quebec,Hip Replacement,90th Percentile,2019FY,Days,268.0
+Provincial,Quebec,Hip Replacement,Volume,2019FY,Number of cases,8349.0
+Provincial,Quebec,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,70.7710699342499
+Provincial,Quebec,Knee Replacement,50th Percentile,2019FY,Days,123.0
+Provincial,Quebec,Knee Replacement,90th Percentile,2019FY,Days,276.0
+Provincial,Quebec,Knee Replacement,Volume,2019FY,Number of cases,11711.0
+Provincial,Quebec,Lung Cancer Surgery,50th Percentile,2019FY,Days,27.0
+Provincial,Quebec,Lung Cancer Surgery,90th Percentile,2019FY,Days,57.0
+Provincial,Quebec,Lung Cancer Surgery,Volume,2019FY,Number of cases,3249.0
+Provincial,Quebec,MRI Scan,50th Percentile,2019FY,Days,N/A
+Provincial,Quebec,MRI Scan,90th Percentile,2019FY,Days,N/A
+Provincial,Quebec,MRI Scan,Volume,2019FY,Number of cases,N/A
+Provincial,Quebec,Prostate Cancer Surgery,50th Percentile,2019FY,Days,37.0
+Provincial,Quebec,Prostate Cancer Surgery,90th Percentile,2019FY,Days,91.0
+Provincial,Quebec,Prostate Cancer Surgery,Volume,2019FY,Number of cases,1755.0
+Provincial,Quebec,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,99.0
+Provincial,Quebec,Radiation Therapy,50th Percentile,2019FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,90th Percentile,2019FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,Volume,2019FY,Number of cases,N/A
+Provincial,Saskatchewan,Bladder Cancer Surgery,50th Percentile,2019FY,Days,16.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,90th Percentile,2019FY,Days,30.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,Volume,2019FY,Number of cases,600.0
+Provincial,Saskatchewan,Breast Cancer Surgery,50th Percentile,2019FY,Days,19.0
+Provincial,Saskatchewan,Breast Cancer Surgery,90th Percentile,2019FY,Days,36.0
+Provincial,Saskatchewan,Breast Cancer Surgery,Volume,2019FY,Number of cases,783.0
+Provincial,Saskatchewan,CABG,50th Percentile,2019FY,Days,4.0
+Provincial,Saskatchewan,CABG,90th Percentile,2019FY,Days,42.0
+Provincial,Saskatchewan,CABG,Volume,2019FY,Number of cases,317.0
+Provincial,Saskatchewan,Cataract Surgery,% Meeting Benchmark,2019FY,Proportion,61.7795256236942
+Provincial,Saskatchewan,Cataract Surgery,50th Percentile,2019FY,Days,78.0
+Provincial,Saskatchewan,Cataract Surgery,90th Percentile,2019FY,Days,244.0
+Provincial,Saskatchewan,Cataract Surgery,Volume,2019FY,Number of cases,8137.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,50th Percentile,2019FY,Days,17.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,90th Percentile,2019FY,Days,37.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,Volume,2019FY,Number of cases,382.0
+Provincial,Saskatchewan,CT Scan,50th Percentile,2019FY,Days,26.0
+Provincial,Saskatchewan,CT Scan,90th Percentile,2019FY,Days,79.0
+Provincial,Saskatchewan,CT Scan,Volume,2019FY,Number of cases,49041.0
+Provincial,Saskatchewan,Hip Replacement,% Meeting Benchmark,2019FY,Proportion,47.4052478134111
+Provincial,Saskatchewan,Hip Replacement,50th Percentile,2019FY,Days,199.0
+Provincial,Saskatchewan,Hip Replacement,90th Percentile,2019FY,Days,381.0
+Provincial,Saskatchewan,Hip Replacement,Volume,2019FY,Number of cases,1715.0
+Provincial,Saskatchewan,Knee Replacement,% Meeting Benchmark,2019FY,Proportion,37.111581920904
+Provincial,Saskatchewan,Knee Replacement,50th Percentile,2019FY,Days,266.0
+Provincial,Saskatchewan,Knee Replacement,90th Percentile,2019FY,Days,423.0
+Provincial,Saskatchewan,Knee Replacement,Volume,2019FY,Number of cases,2832.0
+Provincial,Saskatchewan,Lung Cancer Surgery,50th Percentile,2019FY,Days,14.0
+Provincial,Saskatchewan,Lung Cancer Surgery,90th Percentile,2019FY,Days,35.0
+Provincial,Saskatchewan,Lung Cancer Surgery,Volume,2019FY,Number of cases,165.0
+Provincial,Saskatchewan,MRI Scan,50th Percentile,2019FY,Days,45.0
+Provincial,Saskatchewan,MRI Scan,90th Percentile,2019FY,Days,278.0
+Provincial,Saskatchewan,MRI Scan,Volume,2019FY,Number of cases,25178.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,50th Percentile,2019FY,Days,43.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,90th Percentile,2019FY,Days,114.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,Volume,2019FY,Number of cases,164.0
+Provincial,Saskatchewan,Radiation Therapy,% Meeting Benchmark,2019FY,Proportion,96.0
+Provincial,Saskatchewan,Radiation Therapy,50th Percentile,2019FY,Days,8.0
+Provincial,Saskatchewan,Radiation Therapy,90th Percentile,2019FY,Days,21.0
+Provincial,Saskatchewan,Radiation Therapy,Volume,2019FY,Number of cases,2275.0
+Provincial,Alberta,Bladder Cancer Surgery,50th Percentile,2020FY,Days,22.0
+Provincial,Alberta,Bladder Cancer Surgery,90th Percentile,2020FY,Days,62.0
+Provincial,Alberta,Bladder Cancer Surgery,Volume,2020FY,Number of cases,2136.0
+Provincial,Alberta,Breast Cancer Surgery,50th Percentile,2020FY,Days,17.0
+Provincial,Alberta,Breast Cancer Surgery,90th Percentile,2020FY,Days,36.0
+Provincial,Alberta,Breast Cancer Surgery,Volume,2020FY,Number of cases,3298.0
+Provincial,Alberta,CABG,50th Percentile,2020FY,Days,6.23
+Provincial,Alberta,CABG,90th Percentile,2020FY,Days,86.61
+Provincial,Alberta,CABG,Volume,2020FY,Number of cases,901.0
+Provincial,Alberta,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,45.3
+Provincial,Alberta,Cataract Surgery,50th Percentile,2020FY,Days,131.0
+Provincial,Alberta,Cataract Surgery,90th Percentile,2020FY,Days,370.0
+Provincial,Alberta,Cataract Surgery,Volume,2020FY,Number of cases,27342.0
+Provincial,Alberta,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,21.0
+Provincial,Alberta,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,46.0
+Provincial,Alberta,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,1166.0
+Provincial,Alberta,CT Scan,50th Percentile,2020FY,Days,15.0
+Provincial,Alberta,CT Scan,90th Percentile,2020FY,Days,112.0
+Provincial,Alberta,CT Scan,Volume,2020FY,Number of cases,156211.0
+Provincial,Alberta,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,51.6
+Provincial,Alberta,Hip Replacement,50th Percentile,2020FY,Days,176.0
+Provincial,Alberta,Hip Replacement,90th Percentile,2020FY,Days,382.0
+Provincial,Alberta,Hip Replacement,Volume,2020FY,Number of cases,3846.0
+Provincial,Alberta,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,43.3
+Provincial,Alberta,Knee Replacement,50th Percentile,2020FY,Days,206.0
+Provincial,Alberta,Knee Replacement,90th Percentile,2020FY,Days,442.0
+Provincial,Alberta,Knee Replacement,Volume,2020FY,Number of cases,5063.0
+Provincial,Alberta,Lung Cancer Surgery,50th Percentile,2020FY,Days,24.0
+Provincial,Alberta,Lung Cancer Surgery,90th Percentile,2020FY,Days,49.0
+Provincial,Alberta,Lung Cancer Surgery,Volume,2020FY,Number of cases,692.0
+Provincial,Alberta,MRI Scan,50th Percentile,2020FY,Days,42.0
+Provincial,Alberta,MRI Scan,90th Percentile,2020FY,Days,338.0
+Provincial,Alberta,MRI Scan,Volume,2020FY,Number of cases,121524.0
+Provincial,Alberta,Prostate Cancer Surgery,50th Percentile,2020FY,Days,46.0
+Provincial,Alberta,Prostate Cancer Surgery,90th Percentile,2020FY,Days,151.0
+Provincial,Alberta,Prostate Cancer Surgery,Volume,2020FY,Number of cases,1063.0
+Provincial,Alberta,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,99.1
+Provincial,Alberta,Radiation Therapy,50th Percentile,2020FY,Days,9.0
+Provincial,Alberta,Radiation Therapy,90th Percentile,2020FY,Days,20.0
+Provincial,Alberta,Radiation Therapy,Volume,2020FY,Number of cases,9180.0
+Provincial,British Columbia,Bladder Cancer Surgery,50th Percentile,2020FY,Days,21.0
+Provincial,British Columbia,Bladder Cancer Surgery,90th Percentile,2020FY,Days,52.0
+Provincial,British Columbia,Bladder Cancer Surgery,Volume,2020FY,Number of cases,3690.0
+Provincial,British Columbia,Breast Cancer Surgery,50th Percentile,2020FY,Days,17.0
+Provincial,British Columbia,Breast Cancer Surgery,90th Percentile,2020FY,Days,40.0
+Provincial,British Columbia,Breast Cancer Surgery,Volume,2020FY,Number of cases,3942.0
+Provincial,British Columbia,CABG,50th Percentile,2020FY,Days,5.0
+Provincial,British Columbia,CABG,90th Percentile,2020FY,Days,60.0
+Provincial,British Columbia,CABG,Volume,2020FY,Number of cases,1735.0
+Provincial,British Columbia,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,64.2
+Provincial,British Columbia,Cataract Surgery,50th Percentile,2020FY,Days,65.0
+Provincial,British Columbia,Cataract Surgery,90th Percentile,2020FY,Days,301.0
+Provincial,British Columbia,Cataract Surgery,Volume,2020FY,Number of cases,59633.0
+Provincial,British Columbia,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,17.0
+Provincial,British Columbia,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,45.0
+Provincial,British Columbia,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,1730.0
+Provincial,British Columbia,CT Scan,50th Percentile,2020FY,Days,22.0
+Provincial,British Columbia,CT Scan,90th Percentile,2020FY,Days,143.0
+Provincial,British Columbia,CT Scan,Volume,2020FY,Number of cases,271002.0
+Provincial,British Columbia,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,63.5
+Provincial,British Columbia,Hip Replacement,50th Percentile,2020FY,Days,135.0
+Provincial,British Columbia,Hip Replacement,90th Percentile,2020FY,Days,322.0
+Provincial,British Columbia,Hip Replacement,Volume,2020FY,Number of cases,6378.0
+Provincial,British Columbia,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,56.7
+Provincial,British Columbia,Knee Replacement,50th Percentile,2020FY,Days,157.0
+Provincial,British Columbia,Knee Replacement,90th Percentile,2020FY,Days,370.0
+Provincial,British Columbia,Knee Replacement,Volume,2020FY,Number of cases,8988.0
+Provincial,British Columbia,Lung Cancer Surgery,50th Percentile,2020FY,Days,16.0
+Provincial,British Columbia,Lung Cancer Surgery,90th Percentile,2020FY,Days,42.0
+Provincial,British Columbia,Lung Cancer Surgery,Volume,2020FY,Number of cases,996.0
+Provincial,British Columbia,MRI Scan,50th Percentile,2020FY,Days,56.0
+Provincial,British Columbia,MRI Scan,90th Percentile,2020FY,Days,188.0
+Provincial,British Columbia,MRI Scan,Volume,2020FY,Number of cases,157747.0
+Provincial,British Columbia,Prostate Cancer Surgery,50th Percentile,2020FY,Days,31.0
+Provincial,British Columbia,Prostate Cancer Surgery,90th Percentile,2020FY,Days,82.0
+Provincial,British Columbia,Prostate Cancer Surgery,Volume,2020FY,Number of cases,1042.0
+Provincial,British Columbia,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,92.0
+Provincial,British Columbia,Radiation Therapy,50th Percentile,2020FY,Days,11.0
+Provincial,British Columbia,Radiation Therapy,90th Percentile,2020FY,Days,27.0
+Provincial,British Columbia,Radiation Therapy,Volume,2020FY,Number of cases,13000.0
+Provincial,Manitoba,Bladder Cancer Surgery,50th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,90th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,Volume,2020FY,Number of cases,N/A
+Provincial,Manitoba,Breast Cancer Surgery,50th Percentile,2020FY,Days,19.0
+Provincial,Manitoba,Breast Cancer Surgery,90th Percentile,2020FY,Days,62.0
+Provincial,Manitoba,Breast Cancer Surgery,Volume,2020FY,Number of cases,514.0
+Provincial,Manitoba,CABG,50th Percentile,2020FY,Days,7.0
+Provincial,Manitoba,CABG,90th Percentile,2020FY,Days,58.0
+Provincial,Manitoba,CABG,Volume,2020FY,Number of cases,310.0
+Provincial,Manitoba,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,35.0
+Provincial,Manitoba,Cataract Surgery,50th Percentile,2020FY,Days,168.0
+Provincial,Manitoba,Cataract Surgery,90th Percentile,2020FY,Days,440.0
+Provincial,Manitoba,Cataract Surgery,Volume,2020FY,Number of cases,6404.0
+Provincial,Manitoba,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,N/A
+Provincial,Manitoba,CT Scan,50th Percentile,2020FY,Days,25.0
+Provincial,Manitoba,CT Scan,90th Percentile,2020FY,Days,122.0
+Provincial,Manitoba,CT Scan,Volume,2020FY,Number of cases,99411.0
+Provincial,Manitoba,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,52.0
+Provincial,Manitoba,Hip Replacement,50th Percentile,2020FY,Days,174.0
+Provincial,Manitoba,Hip Replacement,90th Percentile,2020FY,Days,413.0
+Provincial,Manitoba,Hip Replacement,Volume,2020FY,Number of cases,1357.0
+Provincial,Manitoba,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,37.0
+Provincial,Manitoba,Knee Replacement,50th Percentile,2020FY,Days,245.0
+Provincial,Manitoba,Knee Replacement,90th Percentile,2020FY,Days,499.0
+Provincial,Manitoba,Knee Replacement,Volume,2020FY,Number of cases,2096.0
+Provincial,Manitoba,Lung Cancer Surgery,50th Percentile,2020FY,Days,20.0
+Provincial,Manitoba,Lung Cancer Surgery,90th Percentile,2020FY,Days,69.0
+Provincial,Manitoba,Lung Cancer Surgery,Volume,2020FY,Number of cases,255.0
+Provincial,Manitoba,MRI Scan,50th Percentile,2020FY,Days,71.0
+Provincial,Manitoba,MRI Scan,90th Percentile,2020FY,Days,216.0
+Provincial,Manitoba,MRI Scan,Volume,2020FY,Number of cases,65654.0
+Provincial,Manitoba,Prostate Cancer Surgery,50th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,90th Percentile,2020FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,Volume,2020FY,Number of cases,N/A
+Provincial,Manitoba,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,100.0
+Provincial,Manitoba,Radiation Therapy,50th Percentile,2020FY,Days,10.0
+Provincial,Manitoba,Radiation Therapy,90th Percentile,2020FY,Days,24.0
+Provincial,Manitoba,Radiation Therapy,Volume,2020FY,Number of cases,3716.0
+Provincial,New Brunswick,Bladder Cancer Surgery,50th Percentile,2020FY,Days,25.0
+Provincial,New Brunswick,Bladder Cancer Surgery,90th Percentile,2020FY,Days,74.0
+Provincial,New Brunswick,Bladder Cancer Surgery,Volume,2020FY,Number of cases,496.0
+Provincial,New Brunswick,Breast Cancer Surgery,50th Percentile,2020FY,Days,20.0
+Provincial,New Brunswick,Breast Cancer Surgery,90th Percentile,2020FY,Days,48.0
+Provincial,New Brunswick,Breast Cancer Surgery,Volume,2020FY,Number of cases,669.0
+Provincial,New Brunswick,CABG,50th Percentile,2020FY,Days,8.0
+Provincial,New Brunswick,CABG,90th Percentile,2020FY,Days,207.0
+Provincial,New Brunswick,CABG,Volume,2020FY,Number of cases,448.0
+Provincial,New Brunswick,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,62.0
+Provincial,New Brunswick,Cataract Surgery,50th Percentile,2020FY,Days,73.0
+Provincial,New Brunswick,Cataract Surgery,90th Percentile,2020FY,Days,275.0
+Provincial,New Brunswick,Cataract Surgery,Volume,2020FY,Number of cases,10410.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,22.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,52.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,452.0
+Provincial,New Brunswick,CT Scan,50th Percentile,2020FY,Days,N/A
+Provincial,New Brunswick,CT Scan,90th Percentile,2020FY,Days,N/A
+Provincial,New Brunswick,CT Scan,Volume,2020FY,Number of cases,N/A
+Provincial,New Brunswick,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,36.0
+Provincial,New Brunswick,Hip Replacement,50th Percentile,2020FY,Days,265.0
+Provincial,New Brunswick,Hip Replacement,90th Percentile,2020FY,Days,511.0
+Provincial,New Brunswick,Hip Replacement,Volume,2020FY,Number of cases,1108.0
+Provincial,New Brunswick,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,30.0
+Provincial,New Brunswick,Knee Replacement,50th Percentile,2020FY,Days,280.0
+Provincial,New Brunswick,Knee Replacement,90th Percentile,2020FY,Days,560.0
+Provincial,New Brunswick,Knee Replacement,Volume,2020FY,Number of cases,1773.0
+Provincial,New Brunswick,Lung Cancer Surgery,50th Percentile,2020FY,Days,32.0
+Provincial,New Brunswick,Lung Cancer Surgery,90th Percentile,2020FY,Days,64.0
+Provincial,New Brunswick,Lung Cancer Surgery,Volume,2020FY,Number of cases,174.0
+Provincial,New Brunswick,MRI Scan,50th Percentile,2020FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,90th Percentile,2020FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,Volume,2020FY,Number of cases,N/A
+Provincial,New Brunswick,Prostate Cancer Surgery,50th Percentile,2020FY,Days,39.0
+Provincial,New Brunswick,Prostate Cancer Surgery,90th Percentile,2020FY,Days,98.0
+Provincial,New Brunswick,Prostate Cancer Surgery,Volume,2020FY,Number of cases,160.0
+Provincial,New Brunswick,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,95.5586080586081
+Provincial,New Brunswick,Radiation Therapy,50th Percentile,2020FY,Days,11.0
+Provincial,New Brunswick,Radiation Therapy,90th Percentile,2020FY,Days,24.0
+Provincial,New Brunswick,Radiation Therapy,Volume,2020FY,Number of cases,2184.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,50th Percentile,2020FY,Days,21.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,90th Percentile,2020FY,Days,41.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,Volume,2020FY,Number of cases,255.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,50th Percentile,2020FY,Days,15.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,90th Percentile,2020FY,Days,28.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,Volume,2020FY,Number of cases,433.0
+Provincial,Newfoundland and Labrador,CABG,50th Percentile,2020FY,Days,14.0
+Provincial,Newfoundland and Labrador,CABG,90th Percentile,2020FY,Days,85.0
+Provincial,Newfoundland and Labrador,CABG,Volume,2020FY,Number of cases,270.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,57.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,50th Percentile,2020FY,Days,92.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,90th Percentile,2020FY,Days,325.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,Volume,2020FY,Number of cases,1823.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,13.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,32.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,307.0
+Provincial,Newfoundland and Labrador,CT Scan,50th Percentile,2020FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,90th Percentile,2020FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,Volume,2020FY,Number of cases,78410.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2020FY,Proportion,96.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2020FY,Hours,25.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2020FY,Hours,43.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,Volume,2020FY,Number of cases,354.0
+Provincial,Newfoundland and Labrador,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,56.0
+Provincial,Newfoundland and Labrador,Hip Replacement,50th Percentile,2020FY,Days,155.0
+Provincial,Newfoundland and Labrador,Hip Replacement,90th Percentile,2020FY,Days,426.0
+Provincial,Newfoundland and Labrador,Hip Replacement,Volume,2020FY,Number of cases,366.0
+Provincial,Newfoundland and Labrador,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,33.0
+Provincial,Newfoundland and Labrador,Knee Replacement,50th Percentile,2020FY,Days,288.0
+Provincial,Newfoundland and Labrador,Knee Replacement,90th Percentile,2020FY,Days,507.0
+Provincial,Newfoundland and Labrador,Knee Replacement,Volume,2020FY,Number of cases,445.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,50th Percentile,2020FY,Days,20.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,90th Percentile,2020FY,Days,34.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,Volume,2020FY,Number of cases,68.0
+Provincial,Newfoundland and Labrador,MRI Scan,50th Percentile,2020FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,90th Percentile,2020FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,Volume,2020FY,Number of cases,18833.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,50th Percentile,2020FY,Days,33.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,90th Percentile,2020FY,Days,41.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,Volume,2020FY,Number of cases,97.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,99.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,50th Percentile,2020FY,Days,15.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,90th Percentile,2020FY,Days,22.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,Volume,2020FY,Number of cases,965.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,50th Percentile,2020FY,Days,29.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,90th Percentile,2020FY,Days,120.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,Volume,2020FY,Number of cases,815.0
+Provincial,Nova Scotia,Breast Cancer Surgery,50th Percentile,2020FY,Days,16.0
+Provincial,Nova Scotia,Breast Cancer Surgery,90th Percentile,2020FY,Days,35.0
+Provincial,Nova Scotia,Breast Cancer Surgery,Volume,2020FY,Number of cases,731.0
+Provincial,Nova Scotia,CABG,50th Percentile,2020FY,Days,8.0
+Provincial,Nova Scotia,CABG,90th Percentile,2020FY,Days,86.0
+Provincial,Nova Scotia,CABG,Volume,2020FY,Number of cases,317.0
+Provincial,Nova Scotia,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,52.0
+Provincial,Nova Scotia,Cataract Surgery,50th Percentile,2020FY,Days,106.0
+Provincial,Nova Scotia,Cataract Surgery,90th Percentile,2020FY,Days,392.0
+Provincial,Nova Scotia,Cataract Surgery,Volume,2020FY,Number of cases,7203.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,23.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,55.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,405.0
+Provincial,Nova Scotia,CT Scan,50th Percentile,2020FY,Days,26.0
+Provincial,Nova Scotia,CT Scan,90th Percentile,2020FY,Days,146.0
+Provincial,Nova Scotia,CT Scan,Volume,2020FY,Number of cases,101858.0
+Provincial,Nova Scotia,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,56.2
+Provincial,Nova Scotia,Hip Replacement,50th Percentile,2020FY,Days,153.0
+Provincial,Nova Scotia,Hip Replacement,90th Percentile,2020FY,Days,569.0
+Provincial,Nova Scotia,Hip Replacement,Volume,2020FY,Number of cases,1258.0
+Provincial,Nova Scotia,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,39.5
+Provincial,Nova Scotia,Knee Replacement,50th Percentile,2020FY,Days,260.0
+Provincial,Nova Scotia,Knee Replacement,90th Percentile,2020FY,Days,663.0
+Provincial,Nova Scotia,Knee Replacement,Volume,2020FY,Number of cases,1859.0
+Provincial,Nova Scotia,Lung Cancer Surgery,50th Percentile,2020FY,Days,21.0
+Provincial,Nova Scotia,Lung Cancer Surgery,90th Percentile,2020FY,Days,88.0
+Provincial,Nova Scotia,Lung Cancer Surgery,Volume,2020FY,Number of cases,327.0
+Provincial,Nova Scotia,MRI Scan,50th Percentile,2020FY,Days,53.0
+Provincial,Nova Scotia,MRI Scan,90th Percentile,2020FY,Days,301.0
+Provincial,Nova Scotia,MRI Scan,Volume,2020FY,Number of cases,32579.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,50th Percentile,2020FY,Days,41.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,90th Percentile,2020FY,Days,118.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,Volume,2020FY,Number of cases,221.0
+Provincial,Nova Scotia,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,98.5
+Provincial,Nova Scotia,Radiation Therapy,50th Percentile,2020FY,Days,10.0
+Provincial,Nova Scotia,Radiation Therapy,90th Percentile,2020FY,Days,21.0
+Provincial,Nova Scotia,Radiation Therapy,Volume,2020FY,Number of cases,3064.0
+Provincial,Ontario,Bladder Cancer Surgery,50th Percentile,2020FY,Days,21.0
+Provincial,Ontario,Bladder Cancer Surgery,90th Percentile,2020FY,Days,66.0
+Provincial,Ontario,Bladder Cancer Surgery,Volume,2020FY,Number of cases,10483.0
+Provincial,Ontario,Breast Cancer Surgery,50th Percentile,2020FY,Days,16.0
+Provincial,Ontario,Breast Cancer Surgery,90th Percentile,2020FY,Days,34.0
+Provincial,Ontario,Breast Cancer Surgery,Volume,2020FY,Number of cases,10405.0
+Provincial,Ontario,CABG,50th Percentile,2020FY,Days,6.0
+Provincial,Ontario,CABG,90th Percentile,2020FY,Days,58.0
+Provincial,Ontario,CABG,Volume,2020FY,Number of cases,5412.0
+Provincial,Ontario,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,58.5976804024732
+Provincial,Ontario,Cataract Surgery,50th Percentile,2020FY,Days,81.0
+Provincial,Ontario,Cataract Surgery,90th Percentile,2020FY,Days,311.0
+Provincial,Ontario,Cataract Surgery,Volume,2020FY,Number of cases,104156.0
+Provincial,Ontario,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,17.0
+Provincial,Ontario,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,38.0
+Provincial,Ontario,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,4217.0
+Provincial,Ontario,CT Scan,50th Percentile,2020FY,Days,5.0
+Provincial,Ontario,CT Scan,90th Percentile,2020FY,Days,62.0
+Provincial,Ontario,CT Scan,Volume,2020FY,Number of cases,931251.0
+Provincial,Ontario,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,71.6598400624147
+Provincial,Ontario,Hip Replacement,50th Percentile,2020FY,Days,99.0
+Provincial,Ontario,Hip Replacement,90th Percentile,2020FY,Days,329.0
+Provincial,Ontario,Hip Replacement,Volume,2020FY,Number of cases,15381.0
+Provincial,Ontario,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,66.2069563708908
+Provincial,Ontario,Knee Replacement,50th Percentile,2020FY,Days,115.0
+Provincial,Ontario,Knee Replacement,90th Percentile,2020FY,Days,371.0
+Provincial,Ontario,Knee Replacement,Volume,2020FY,Number of cases,23058.0
+Provincial,Ontario,Lung Cancer Surgery,50th Percentile,2020FY,Days,18.0
+Provincial,Ontario,Lung Cancer Surgery,90th Percentile,2020FY,Days,40.0
+Provincial,Ontario,Lung Cancer Surgery,Volume,2020FY,Number of cases,2782.0
+Provincial,Ontario,MRI Scan,50th Percentile,2020FY,Days,28.0
+Provincial,Ontario,MRI Scan,90th Percentile,2020FY,Days,157.0
+Provincial,Ontario,MRI Scan,Volume,2020FY,Number of cases,629520.0
+Provincial,Ontario,Prostate Cancer Surgery,50th Percentile,2020FY,Days,37.0
+Provincial,Ontario,Prostate Cancer Surgery,90th Percentile,2020FY,Days,107.0
+Provincial,Ontario,Prostate Cancer Surgery,Volume,2020FY,Number of cases,2226.0
+Provincial,Ontario,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,98.47
+Provincial,Ontario,Radiation Therapy,50th Percentile,2020FY,Days,9.1
+Provincial,Ontario,Radiation Therapy,90th Percentile,2020FY,Days,16.1
+Provincial,Ontario,Radiation Therapy,Volume,2020FY,Number of cases,32895.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,50th Percentile,2020FY,Days,26.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,90th Percentile,2020FY,Days,75.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,Volume,2020FY,Number of cases,76.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,50th Percentile,2020FY,Days,15.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,90th Percentile,2020FY,Days,30.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,Volume,2020FY,Number of cases,106.0
+Provincial,Prince Edward Island,CABG,50th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,CABG,90th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,CABG,Volume,2020FY,Number of cases,N/A
+Provincial,Prince Edward Island,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,19.5
+Provincial,Prince Edward Island,Cataract Surgery,50th Percentile,2020FY,Days,221.5
+Provincial,Prince Edward Island,Cataract Surgery,90th Percentile,2020FY,Days,438.5
+Provincial,Prince Edward Island,Cataract Surgery,Volume,2020FY,Number of cases,1413.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,14.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,32.5
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,57.0
+Provincial,Prince Edward Island,CT Scan,50th Percentile,2020FY,Days,18.0
+Provincial,Prince Edward Island,CT Scan,90th Percentile,2020FY,Days,113.23
+Provincial,Prince Edward Island,CT Scan,Volume,2020FY,Number of cases,10743.0
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2020FY,Proportion,91.8
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2020FY,Hours,14.4
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2020FY,Hours,40.9
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,Volume,2020FY,Number of cases,147.0
+Provincial,Prince Edward Island,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,53.8
+Provincial,Prince Edward Island,Hip Replacement,50th Percentile,2020FY,Days,166.4
+Provincial,Prince Edward Island,Hip Replacement,90th Percentile,2020FY,Days,441.1
+Provincial,Prince Edward Island,Hip Replacement,Volume,2020FY,Number of cases,261.0
+Provincial,Prince Edward Island,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,29.8
+Provincial,Prince Edward Island,Knee Replacement,50th Percentile,2020FY,Days,292.3
+Provincial,Prince Edward Island,Knee Replacement,90th Percentile,2020FY,Days,494.4
+Provincial,Prince Edward Island,Knee Replacement,Volume,2020FY,Number of cases,459.0
+Provincial,Prince Edward Island,Lung Cancer Surgery,50th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,90th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,Volume,2020FY,Number of cases,N/A
+Provincial,Prince Edward Island,MRI Scan,50th Percentile,2020FY,Days,34.0
+Provincial,Prince Edward Island,MRI Scan,90th Percentile,2020FY,Days,203.3
+Provincial,Prince Edward Island,MRI Scan,Volume,2020FY,Number of cases,4627.0
+Provincial,Prince Edward Island,Prostate Cancer Surgery,50th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,90th Percentile,2020FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,Volume,2020FY,Number of cases,N/A
+Provincial,Prince Edward Island,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,98.8
+Provincial,Prince Edward Island,Radiation Therapy,50th Percentile,2020FY,Days,12.0
+Provincial,Prince Edward Island,Radiation Therapy,90th Percentile,2020FY,Days,21.0
+Provincial,Prince Edward Island,Radiation Therapy,Volume,2020FY,Number of cases,487.0
+Provincial,Quebec,Bladder Cancer Surgery,50th Percentile,2020FY,Days,25.0
+Provincial,Quebec,Bladder Cancer Surgery,90th Percentile,2020FY,Days,54.0
+Provincial,Quebec,Bladder Cancer Surgery,Volume,2020FY,Number of cases,6933.0
+Provincial,Quebec,Breast Cancer Surgery,50th Percentile,2020FY,Days,19.0
+Provincial,Quebec,Breast Cancer Surgery,90th Percentile,2020FY,Days,41.0
+Provincial,Quebec,Breast Cancer Surgery,Volume,2020FY,Number of cases,8005.0
+Provincial,Quebec,CABG,50th Percentile,2020FY,Days,N/A
+Provincial,Quebec,CABG,90th Percentile,2020FY,Days,N/A
+Provincial,Quebec,CABG,Volume,2020FY,Number of cases,N/A
+Provincial,Quebec,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,65.7334287007167
+Provincial,Quebec,Cataract Surgery,50th Percentile,2020FY,Days,57.0
+Provincial,Quebec,Cataract Surgery,90th Percentile,2020FY,Days,252.0
+Provincial,Quebec,Cataract Surgery,Volume,2020FY,Number of cases,68507.0
+Provincial,Quebec,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,20.0
+Provincial,Quebec,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,42.0
+Provincial,Quebec,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,3308.0
+Provincial,Quebec,CT Scan,50th Percentile,2020FY,Days,N/A
+Provincial,Quebec,CT Scan,90th Percentile,2020FY,Days,N/A
+Provincial,Quebec,CT Scan,Volume,2020FY,Number of cases,N/A
+Provincial,Quebec,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,55.5116814741691
+Provincial,Quebec,Hip Replacement,50th Percentile,2020FY,Days,161.0
+Provincial,Quebec,Hip Replacement,90th Percentile,2020FY,Days,370.0
+Provincial,Quebec,Hip Replacement,Volume,2020FY,Number of cases,6078.0
+Provincial,Quebec,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,44.9786628733997
+Provincial,Quebec,Knee Replacement,50th Percentile,2020FY,Days,201.0
+Provincial,Quebec,Knee Replacement,90th Percentile,2020FY,Days,386.0
+Provincial,Quebec,Knee Replacement,Volume,2020FY,Number of cases,7030.0
+Provincial,Quebec,Lung Cancer Surgery,50th Percentile,2020FY,Days,24.0
+Provincial,Quebec,Lung Cancer Surgery,90th Percentile,2020FY,Days,54.0
+Provincial,Quebec,Lung Cancer Surgery,Volume,2020FY,Number of cases,2759.0
+Provincial,Quebec,MRI Scan,50th Percentile,2020FY,Days,N/A
+Provincial,Quebec,MRI Scan,90th Percentile,2020FY,Days,N/A
+Provincial,Quebec,MRI Scan,Volume,2020FY,Number of cases,N/A
+Provincial,Quebec,Prostate Cancer Surgery,50th Percentile,2020FY,Days,36.0
+Provincial,Quebec,Prostate Cancer Surgery,90th Percentile,2020FY,Days,94.0
+Provincial,Quebec,Prostate Cancer Surgery,Volume,2020FY,Number of cases,1689.0
+Provincial,Quebec,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,99.0
+Provincial,Quebec,Radiation Therapy,50th Percentile,2020FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,90th Percentile,2020FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,Volume,2020FY,Number of cases,N/A
+Provincial,Saskatchewan,Bladder Cancer Surgery,50th Percentile,2020FY,Days,15.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,90th Percentile,2020FY,Days,25.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,Volume,2020FY,Number of cases,557.0
+Provincial,Saskatchewan,Breast Cancer Surgery,50th Percentile,2020FY,Days,15.0
+Provincial,Saskatchewan,Breast Cancer Surgery,90th Percentile,2020FY,Days,32.0
+Provincial,Saskatchewan,Breast Cancer Surgery,Volume,2020FY,Number of cases,671.0
+Provincial,Saskatchewan,CABG,50th Percentile,2020FY,Days,4.0
+Provincial,Saskatchewan,CABG,90th Percentile,2020FY,Days,90.0
+Provincial,Saskatchewan,CABG,Volume,2020FY,Number of cases,269.0
+Provincial,Saskatchewan,Cataract Surgery,% Meeting Benchmark,2020FY,Proportion,55.234255526206
+Provincial,Saskatchewan,Cataract Surgery,50th Percentile,2020FY,Days,96.0
+Provincial,Saskatchewan,Cataract Surgery,90th Percentile,2020FY,Days,315.0
+Provincial,Saskatchewan,Cataract Surgery,Volume,2020FY,Number of cases,7193.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,50th Percentile,2020FY,Days,16.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,90th Percentile,2020FY,Days,37.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,Volume,2020FY,Number of cases,332.0
+Provincial,Saskatchewan,CT Scan,50th Percentile,2020FY,Days,21.0
+Provincial,Saskatchewan,CT Scan,90th Percentile,2020FY,Days,106.0
+Provincial,Saskatchewan,CT Scan,Volume,2020FY,Number of cases,41772.0
+Provincial,Saskatchewan,Hip Replacement,% Meeting Benchmark,2020FY,Proportion,43.5294117647059
+Provincial,Saskatchewan,Hip Replacement,50th Percentile,2020FY,Days,226.0
+Provincial,Saskatchewan,Hip Replacement,90th Percentile,2020FY,Days,502.0
+Provincial,Saskatchewan,Hip Replacement,Volume,2020FY,Number of cases,1105.0
+Provincial,Saskatchewan,Knee Replacement,% Meeting Benchmark,2020FY,Proportion,32.0719602977668
+Provincial,Saskatchewan,Knee Replacement,50th Percentile,2020FY,Days,311.0
+Provincial,Saskatchewan,Knee Replacement,90th Percentile,2020FY,Days,561.0
+Provincial,Saskatchewan,Knee Replacement,Volume,2020FY,Number of cases,1612.0
+Provincial,Saskatchewan,Lung Cancer Surgery,50th Percentile,2020FY,Days,15.0
+Provincial,Saskatchewan,Lung Cancer Surgery,90th Percentile,2020FY,Days,43.0
+Provincial,Saskatchewan,Lung Cancer Surgery,Volume,2020FY,Number of cases,133.0
+Provincial,Saskatchewan,MRI Scan,50th Percentile,2020FY,Days,35.0
+Provincial,Saskatchewan,MRI Scan,90th Percentile,2020FY,Days,225.0
+Provincial,Saskatchewan,MRI Scan,Volume,2020FY,Number of cases,21763.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,50th Percentile,2020FY,Days,36.5
+Provincial,Saskatchewan,Prostate Cancer Surgery,90th Percentile,2020FY,Days,122.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,Volume,2020FY,Number of cases,156.0
+Provincial,Saskatchewan,Radiation Therapy,% Meeting Benchmark,2020FY,Proportion,97.0
+Provincial,Saskatchewan,Radiation Therapy,50th Percentile,2020FY,Days,7.0
+Provincial,Saskatchewan,Radiation Therapy,90th Percentile,2020FY,Days,20.0
+Provincial,Saskatchewan,Radiation Therapy,Volume,2020FY,Number of cases,2346.0
+Provincial,Alberta,Bladder Cancer Surgery,50th Percentile,2021FY,Days,25.0
+Provincial,Alberta,Bladder Cancer Surgery,90th Percentile,2021FY,Days,65.0
+Provincial,Alberta,Bladder Cancer Surgery,Volume,2021FY,Number of cases,2136.0
+Provincial,Alberta,Breast Cancer Surgery,50th Percentile,2021FY,Days,18.0
+Provincial,Alberta,Breast Cancer Surgery,90th Percentile,2021FY,Days,38.0
+Provincial,Alberta,Breast Cancer Surgery,Volume,2021FY,Number of cases,3525.0
+Provincial,Alberta,CABG,50th Percentile,2021FY,Days,6.0
+Provincial,Alberta,CABG,90th Percentile,2021FY,Days,65.0
+Provincial,Alberta,CABG,Volume,2021FY,Number of cases,870.0
+Provincial,Alberta,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,64.7
+Provincial,Alberta,Cataract Surgery,50th Percentile,2021FY,Days,71.0
+Provincial,Alberta,Cataract Surgery,90th Percentile,2021FY,Days,263.0
+Provincial,Alberta,Cataract Surgery,Volume,2021FY,Number of cases,30488.0
+Provincial,Alberta,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Alberta,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,55.0
+Provincial,Alberta,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,1384.0
+Provincial,Alberta,CT Scan,50th Percentile,2021FY,Days,9.0
+Provincial,Alberta,CT Scan,90th Percentile,2021FY,Days,76.0
+Provincial,Alberta,CT Scan,Volume,2021FY,Number of cases,150326.0
+Provincial,Alberta,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,51.2
+Provincial,Alberta,Hip Replacement,50th Percentile,2021FY,Days,179.0
+Provincial,Alberta,Hip Replacement,90th Percentile,2021FY,Days,427.0
+Provincial,Alberta,Hip Replacement,Volume,2021FY,Number of cases,3988.0
+Provincial,Alberta,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,39.7
+Provincial,Alberta,Knee Replacement,50th Percentile,2021FY,Days,218.0
+Provincial,Alberta,Knee Replacement,90th Percentile,2021FY,Days,484.0
+Provincial,Alberta,Knee Replacement,Volume,2021FY,Number of cases,5222.0
+Provincial,Alberta,Lung Cancer Surgery,50th Percentile,2021FY,Days,29.0
+Provincial,Alberta,Lung Cancer Surgery,90th Percentile,2021FY,Days,62.0
+Provincial,Alberta,Lung Cancer Surgery,Volume,2021FY,Number of cases,731.0
+Provincial,Alberta,MRI Scan,50th Percentile,2021FY,Days,33.0
+Provincial,Alberta,MRI Scan,90th Percentile,2021FY,Days,172.0
+Provincial,Alberta,MRI Scan,Volume,2021FY,Number of cases,135017.0
+Provincial,Alberta,Prostate Cancer Surgery,50th Percentile,2021FY,Days,67.0
+Provincial,Alberta,Prostate Cancer Surgery,90th Percentile,2021FY,Days,148.0
+Provincial,Alberta,Prostate Cancer Surgery,Volume,2021FY,Number of cases,944.0
+Provincial,Alberta,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,99.0
+Provincial,Alberta,Radiation Therapy,50th Percentile,2021FY,Days,9.1
+Provincial,Alberta,Radiation Therapy,90th Percentile,2021FY,Days,20.3
+Provincial,Alberta,Radiation Therapy,Volume,2021FY,Number of cases,9627.0
+Provincial,British Columbia,Bladder Cancer Surgery,50th Percentile,2021FY,Days,25.0
+Provincial,British Columbia,Bladder Cancer Surgery,90th Percentile,2021FY,Days,58.0
+Provincial,British Columbia,Bladder Cancer Surgery,Volume,2021FY,Number of cases,3873.0
+Provincial,British Columbia,Breast Cancer Surgery,50th Percentile,2021FY,Days,18.0
+Provincial,British Columbia,Breast Cancer Surgery,90th Percentile,2021FY,Days,42.0
+Provincial,British Columbia,Breast Cancer Surgery,Volume,2021FY,Number of cases,4576.0
+Provincial,British Columbia,CABG,50th Percentile,2021FY,Days,7.0
+Provincial,British Columbia,CABG,90th Percentile,2021FY,Days,79.0
+Provincial,British Columbia,CABG,Volume,2021FY,Number of cases,1662.0
+Provincial,British Columbia,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,77.2617377946971
+Provincial,British Columbia,Cataract Surgery,50th Percentile,2021FY,Days,45.0
+Provincial,British Columbia,Cataract Surgery,90th Percentile,2021FY,Days,203.0
+Provincial,British Columbia,Cataract Surgery,Volume,2021FY,Number of cases,74865.0
+Provincial,British Columbia,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,19.0
+Provincial,British Columbia,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,45.0
+Provincial,British Columbia,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,1791.0
+Provincial,British Columbia,CT Scan,50th Percentile,2021FY,Days,22.0
+Provincial,British Columbia,CT Scan,90th Percentile,2021FY,Days,101.0
+Provincial,British Columbia,CT Scan,Volume,2021FY,Number of cases,290956.0
+Provincial,British Columbia,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,71.3009238225049
+Provincial,British Columbia,Hip Replacement,50th Percentile,2021FY,Days,113.0
+Provincial,British Columbia,Hip Replacement,90th Percentile,2021FY,Days,295.0
+Provincial,British Columbia,Hip Replacement,Volume,2021FY,Number of cases,6603.0
+Provincial,British Columbia,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,66.7927122722585
+Provincial,British Columbia,Knee Replacement,50th Percentile,2021FY,Days,132.0
+Provincial,British Columbia,Knee Replacement,90th Percentile,2021FY,Days,350.0
+Provincial,British Columbia,Knee Replacement,Volume,2021FY,Number of cases,8727.0
+Provincial,British Columbia,Lung Cancer Surgery,50th Percentile,2021FY,Days,21.0
+Provincial,British Columbia,Lung Cancer Surgery,90th Percentile,2021FY,Days,49.0
+Provincial,British Columbia,Lung Cancer Surgery,Volume,2021FY,Number of cases,982.0
+Provincial,British Columbia,MRI Scan,50th Percentile,2021FY,Days,43.0
+Provincial,British Columbia,MRI Scan,90th Percentile,2021FY,Days,128.0
+Provincial,British Columbia,MRI Scan,Volume,2021FY,Number of cases,191397.0
+Provincial,British Columbia,Prostate Cancer Surgery,50th Percentile,2021FY,Days,37.0
+Provincial,British Columbia,Prostate Cancer Surgery,90th Percentile,2021FY,Days,104.0
+Provincial,British Columbia,Prostate Cancer Surgery,Volume,2021FY,Number of cases,959.0
+Provincial,British Columbia,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,87.8456491173254
+Provincial,British Columbia,Radiation Therapy,50th Percentile,2021FY,Days,13.0
+Provincial,British Columbia,Radiation Therapy,90th Percentile,2021FY,Days,31.0
+Provincial,British Columbia,Radiation Therapy,Volume,2021FY,Number of cases,12802.0
+Provincial,Manitoba,Bladder Cancer Surgery,50th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,90th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,Volume,2021FY,Number of cases,N/A
+Provincial,Manitoba,Breast Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Manitoba,Breast Cancer Surgery,90th Percentile,2021FY,Days,59.0
+Provincial,Manitoba,Breast Cancer Surgery,Volume,2021FY,Number of cases,708.0
+Provincial,Manitoba,CABG,50th Percentile,2021FY,Days,7.0
+Provincial,Manitoba,CABG,90th Percentile,2021FY,Days,78.0
+Provincial,Manitoba,CABG,Volume,2021FY,Number of cases,302.0
+Provincial,Manitoba,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,59.0
+Provincial,Manitoba,Cataract Surgery,50th Percentile,2021FY,Days,78.0
+Provincial,Manitoba,Cataract Surgery,90th Percentile,2021FY,Days,409.0
+Provincial,Manitoba,Cataract Surgery,Volume,2021FY,Number of cases,11727.0
+Provincial,Manitoba,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,N/A
+Provincial,Manitoba,CT Scan,50th Percentile,2021FY,Days,29.0
+Provincial,Manitoba,CT Scan,90th Percentile,2021FY,Days,115.0
+Provincial,Manitoba,CT Scan,Volume,2021FY,Number of cases,113096.0
+Provincial,Manitoba,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,51.0
+Provincial,Manitoba,Hip Replacement,50th Percentile,2021FY,Days,179.0
+Provincial,Manitoba,Hip Replacement,90th Percentile,2021FY,Days,478.0
+Provincial,Manitoba,Hip Replacement,Volume,2021FY,Number of cases,1464.0
+Provincial,Manitoba,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,35.0
+Provincial,Manitoba,Knee Replacement,50th Percentile,2021FY,Days,277.0
+Provincial,Manitoba,Knee Replacement,90th Percentile,2021FY,Days,599.0
+Provincial,Manitoba,Knee Replacement,Volume,2021FY,Number of cases,2056.0
+Provincial,Manitoba,Lung Cancer Surgery,50th Percentile,2021FY,Days,19.0
+Provincial,Manitoba,Lung Cancer Surgery,90th Percentile,2021FY,Days,46.0
+Provincial,Manitoba,Lung Cancer Surgery,Volume,2021FY,Number of cases,245.0
+Provincial,Manitoba,MRI Scan,50th Percentile,2021FY,Days,70.0
+Provincial,Manitoba,MRI Scan,90th Percentile,2021FY,Days,203.0
+Provincial,Manitoba,MRI Scan,Volume,2021FY,Number of cases,74313.0
+Provincial,Manitoba,Prostate Cancer Surgery,50th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,90th Percentile,2021FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,Volume,2021FY,Number of cases,N/A
+Provincial,Manitoba,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,100.0
+Provincial,Manitoba,Radiation Therapy,50th Percentile,2021FY,Days,14.0
+Provincial,Manitoba,Radiation Therapy,90th Percentile,2021FY,Days,23.0
+Provincial,Manitoba,Radiation Therapy,Volume,2021FY,Number of cases,3595.0
+Provincial,New Brunswick,Bladder Cancer Surgery,50th Percentile,2021FY,Days,26.0
+Provincial,New Brunswick,Bladder Cancer Surgery,90th Percentile,2021FY,Days,62.0
+Provincial,New Brunswick,Bladder Cancer Surgery,Volume,2021FY,Number of cases,529.0
+Provincial,New Brunswick,Breast Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,New Brunswick,Breast Cancer Surgery,90th Percentile,2021FY,Days,42.0
+Provincial,New Brunswick,Breast Cancer Surgery,Volume,2021FY,Number of cases,751.0
+Provincial,New Brunswick,CABG,50th Percentile,2021FY,Days,9.0
+Provincial,New Brunswick,CABG,90th Percentile,2021FY,Days,193.0
+Provincial,New Brunswick,CABG,Volume,2021FY,Number of cases,405.0
+Provincial,New Brunswick,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,68.0
+Provincial,New Brunswick,Cataract Surgery,50th Percentile,2021FY,Days,58.0
+Provincial,New Brunswick,Cataract Surgery,90th Percentile,2021FY,Days,236.0
+Provincial,New Brunswick,Cataract Surgery,Volume,2021FY,Number of cases,10467.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,50.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,448.0
+Provincial,New Brunswick,CT Scan,50th Percentile,2021FY,Days,N/A
+Provincial,New Brunswick,CT Scan,90th Percentile,2021FY,Days,N/A
+Provincial,New Brunswick,CT Scan,Volume,2021FY,Number of cases,N/A
+Provincial,New Brunswick,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,51.0
+Provincial,New Brunswick,Hip Replacement,50th Percentile,2021FY,Days,178.0
+Provincial,New Brunswick,Hip Replacement,90th Percentile,2021FY,Days,475.0
+Provincial,New Brunswick,Hip Replacement,Volume,2021FY,Number of cases,950.0
+Provincial,New Brunswick,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,42.0
+Provincial,New Brunswick,Knee Replacement,50th Percentile,2021FY,Days,217.0
+Provincial,New Brunswick,Knee Replacement,90th Percentile,2021FY,Days,518.0
+Provincial,New Brunswick,Knee Replacement,Volume,2021FY,Number of cases,1488.0
+Provincial,New Brunswick,Lung Cancer Surgery,50th Percentile,2021FY,Days,26.0
+Provincial,New Brunswick,Lung Cancer Surgery,90th Percentile,2021FY,Days,54.0
+Provincial,New Brunswick,Lung Cancer Surgery,Volume,2021FY,Number of cases,135.0
+Provincial,New Brunswick,MRI Scan,50th Percentile,2021FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,90th Percentile,2021FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,Volume,2021FY,Number of cases,N/A
+Provincial,New Brunswick,Prostate Cancer Surgery,50th Percentile,2021FY,Days,33.0
+Provincial,New Brunswick,Prostate Cancer Surgery,90th Percentile,2021FY,Days,69.0
+Provincial,New Brunswick,Prostate Cancer Surgery,Volume,2021FY,Number of cases,171.0
+Provincial,New Brunswick,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,96.8010517090272
+Provincial,New Brunswick,Radiation Therapy,50th Percentile,2021FY,Days,12.0
+Provincial,New Brunswick,Radiation Therapy,90th Percentile,2021FY,Days,27.0
+Provincial,New Brunswick,Radiation Therapy,Volume,2021FY,Number of cases,2282.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,90th Percentile,2021FY,Days,50.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,Volume,2021FY,Number of cases,276.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,50th Percentile,2021FY,Days,15.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,90th Percentile,2021FY,Days,30.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,Volume,2021FY,Number of cases,395.0
+Provincial,Newfoundland and Labrador,CABG,50th Percentile,2021FY,Days,13.0
+Provincial,Newfoundland and Labrador,CABG,90th Percentile,2021FY,Days,255.0
+Provincial,Newfoundland and Labrador,CABG,Volume,2021FY,Number of cases,385.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,39.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,50th Percentile,2021FY,Days,143.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,90th Percentile,2021FY,Days,295.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,Volume,2021FY,Number of cases,2058.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,14.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,33.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,328.0
+Provincial,Newfoundland and Labrador,CT Scan,50th Percentile,2021FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,90th Percentile,2021FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,Volume,2021FY,Number of cases,90533.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2021FY,Proportion,97.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2021FY,Hours,22.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2021FY,Hours,42.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,Volume,2021FY,Number of cases,388.0
+Provincial,Newfoundland and Labrador,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,55.0
+Provincial,Newfoundland and Labrador,Hip Replacement,50th Percentile,2021FY,Days,169.0
+Provincial,Newfoundland and Labrador,Hip Replacement,90th Percentile,2021FY,Days,458.0
+Provincial,Newfoundland and Labrador,Hip Replacement,Volume,2021FY,Number of cases,427.0
+Provincial,Newfoundland and Labrador,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,41.0
+Provincial,Newfoundland and Labrador,Knee Replacement,50th Percentile,2021FY,Days,216.0
+Provincial,Newfoundland and Labrador,Knee Replacement,90th Percentile,2021FY,Days,598.0
+Provincial,Newfoundland and Labrador,Knee Replacement,Volume,2021FY,Number of cases,608.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,50th Percentile,2021FY,Days,17.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,90th Percentile,2021FY,Days,32.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,Volume,2021FY,Number of cases,59.0
+Provincial,Newfoundland and Labrador,MRI Scan,50th Percentile,2021FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,90th Percentile,2021FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,Volume,2021FY,Number of cases,20195.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,50th Percentile,2021FY,Days,43.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,90th Percentile,2021FY,Days,85.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,Volume,2021FY,Number of cases,138.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,98.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,50th Percentile,2021FY,Days,15.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,90th Percentile,2021FY,Days,22.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,Volume,2021FY,Number of cases,1075.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,50th Percentile,2021FY,Days,29.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,90th Percentile,2021FY,Days,90.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,Volume,2021FY,Number of cases,803.0
+Provincial,Nova Scotia,Breast Cancer Surgery,50th Percentile,2021FY,Days,17.0
+Provincial,Nova Scotia,Breast Cancer Surgery,90th Percentile,2021FY,Days,41.0
+Provincial,Nova Scotia,Breast Cancer Surgery,Volume,2021FY,Number of cases,914.0
+Provincial,Nova Scotia,CABG,50th Percentile,2021FY,Days,7.0
+Provincial,Nova Scotia,CABG,90th Percentile,2021FY,Days,78.0
+Provincial,Nova Scotia,CABG,Volume,2021FY,Number of cases,325.0
+Provincial,Nova Scotia,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,64.0
+Provincial,Nova Scotia,Cataract Surgery,50th Percentile,2021FY,Days,82.0
+Provincial,Nova Scotia,Cataract Surgery,90th Percentile,2021FY,Days,256.0
+Provincial,Nova Scotia,Cataract Surgery,Volume,2021FY,Number of cases,8243.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,50.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,513.0
+Provincial,Nova Scotia,CT Scan,50th Percentile,2021FY,Days,32.0
+Provincial,Nova Scotia,CT Scan,90th Percentile,2021FY,Days,150.0
+Provincial,Nova Scotia,CT Scan,Volume,2021FY,Number of cases,80988.0
+Provincial,Nova Scotia,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,59.0
+Provincial,Nova Scotia,Hip Replacement,50th Percentile,2021FY,Days,152.0
+Provincial,Nova Scotia,Hip Replacement,90th Percentile,2021FY,Days,588.0
+Provincial,Nova Scotia,Hip Replacement,Volume,2021FY,Number of cases,1089.0
+Provincial,Nova Scotia,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,51.1
+Provincial,Nova Scotia,Knee Replacement,50th Percentile,2021FY,Days,177.0
+Provincial,Nova Scotia,Knee Replacement,90th Percentile,2021FY,Days,643.0
+Provincial,Nova Scotia,Knee Replacement,Volume,2021FY,Number of cases,1589.0
+Provincial,Nova Scotia,Lung Cancer Surgery,50th Percentile,2021FY,Days,20.0
+Provincial,Nova Scotia,Lung Cancer Surgery,90th Percentile,2021FY,Days,65.0
+Provincial,Nova Scotia,Lung Cancer Surgery,Volume,2021FY,Number of cases,369.0
+Provincial,Nova Scotia,MRI Scan,50th Percentile,2021FY,Days,90.0
+Provincial,Nova Scotia,MRI Scan,90th Percentile,2021FY,Days,289.0
+Provincial,Nova Scotia,MRI Scan,Volume,2021FY,Number of cases,25479.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,50th Percentile,2021FY,Days,83.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,90th Percentile,2021FY,Days,147.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,Volume,2021FY,Number of cases,236.0
+Provincial,Nova Scotia,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,83.16
+Provincial,Nova Scotia,Radiation Therapy,50th Percentile,2021FY,Days,15.0
+Provincial,Nova Scotia,Radiation Therapy,90th Percentile,2021FY,Days,35.0
+Provincial,Nova Scotia,Radiation Therapy,Volume,2021FY,Number of cases,3207.0
+Provincial,Ontario,Bladder Cancer Surgery,50th Percentile,2021FY,Days,23.0
+Provincial,Ontario,Bladder Cancer Surgery,90th Percentile,2021FY,Days,66.0
+Provincial,Ontario,Bladder Cancer Surgery,Volume,2021FY,Number of cases,11126.0
+Provincial,Ontario,Breast Cancer Surgery,50th Percentile,2021FY,Days,17.0
+Provincial,Ontario,Breast Cancer Surgery,90th Percentile,2021FY,Days,34.0
+Provincial,Ontario,Breast Cancer Surgery,Volume,2021FY,Number of cases,12924.0
+Provincial,Ontario,CABG,50th Percentile,2021FY,Days,7.0
+Provincial,Ontario,CABG,90th Percentile,2021FY,Days,66.0
+Provincial,Ontario,CABG,Volume,2021FY,Number of cases,5649.0
+Provincial,Ontario,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,60.0191030655872
+Provincial,Ontario,Cataract Surgery,50th Percentile,2021FY,Days,87.0
+Provincial,Ontario,Cataract Surgery,90th Percentile,2021FY,Days,300.0
+Provincial,Ontario,Cataract Surgery,Volume,2021FY,Number of cases,109930.0
+Provincial,Ontario,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,18.0
+Provincial,Ontario,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,39.0
+Provincial,Ontario,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,5072.0
+Provincial,Ontario,CT Scan,50th Percentile,2021FY,Days,6.0
+Provincial,Ontario,CT Scan,90th Percentile,2021FY,Days,49.0
+Provincial,Ontario,CT Scan,Volume,2021FY,Number of cases,1014129.0
+Provincial,Ontario,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,74.293297942933
+Provincial,Ontario,Hip Replacement,50th Percentile,2021FY,Days,104.0
+Provincial,Ontario,Hip Replacement,90th Percentile,2021FY,Days,303.0
+Provincial,Ontario,Hip Replacement,Volume,2021FY,Number of cases,15070.0
+Provincial,Ontario,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,70.4713132540578
+Provincial,Ontario,Knee Replacement,50th Percentile,2021FY,Days,112.0
+Provincial,Ontario,Knee Replacement,90th Percentile,2021FY,Days,363.0
+Provincial,Ontario,Knee Replacement,Volume,2021FY,Number of cases,23042.0
+Provincial,Ontario,Lung Cancer Surgery,50th Percentile,2021FY,Days,20.0
+Provincial,Ontario,Lung Cancer Surgery,90th Percentile,2021FY,Days,43.0
+Provincial,Ontario,Lung Cancer Surgery,Volume,2021FY,Number of cases,2869.0
+Provincial,Ontario,MRI Scan,50th Percentile,2021FY,Days,31.0
+Provincial,Ontario,MRI Scan,90th Percentile,2021FY,Days,124.0
+Provincial,Ontario,MRI Scan,Volume,2021FY,Number of cases,725245.0
+Provincial,Ontario,Prostate Cancer Surgery,50th Percentile,2021FY,Days,41.0
+Provincial,Ontario,Prostate Cancer Surgery,90th Percentile,2021FY,Days,100.0
+Provincial,Ontario,Prostate Cancer Surgery,Volume,2021FY,Number of cases,2111.0
+Provincial,Ontario,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,98.34
+Provincial,Ontario,Radiation Therapy,50th Percentile,2021FY,Days,9.8
+Provincial,Ontario,Radiation Therapy,90th Percentile,2021FY,Days,16.8
+Provincial,Ontario,Radiation Therapy,Volume,2021FY,Number of cases,35749.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,50th Percentile,2021FY,Days,19.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,90th Percentile,2021FY,Days,45.5
+Provincial,Prince Edward Island,Bladder Cancer Surgery,Volume,2021FY,Number of cases,86.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,50th Percentile,2021FY,Days,16.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,90th Percentile,2021FY,Days,42.8
+Provincial,Prince Edward Island,Breast Cancer Surgery,Volume,2021FY,Number of cases,106.0
+Provincial,Prince Edward Island,CABG,50th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,CABG,90th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,CABG,Volume,2021FY,Number of cases,N/A
+Provincial,Prince Edward Island,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,37.9
+Provincial,Prince Edward Island,Cataract Surgery,50th Percentile,2021FY,Days,143.6
+Provincial,Prince Edward Island,Cataract Surgery,90th Percentile,2021FY,Days,338.5
+Provincial,Prince Edward Island,Cataract Surgery,Volume,2021FY,Number of cases,1347.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,16.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,45.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,66.0
+Provincial,Prince Edward Island,CT Scan,50th Percentile,2021FY,Days,27.0
+Provincial,Prince Edward Island,CT Scan,90th Percentile,2021FY,Days,114.1
+Provincial,Prince Edward Island,CT Scan,Volume,2021FY,Number of cases,10057.0
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2021FY,Proportion,91.2
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2021FY,Hours,17.9
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2021FY,Hours,46.8
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,Volume,2021FY,Number of cases,145.0
+Provincial,Prince Edward Island,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,59.3
+Provincial,Prince Edward Island,Hip Replacement,50th Percentile,2021FY,Days,147.6
+Provincial,Prince Edward Island,Hip Replacement,90th Percentile,2021FY,Days,405.0
+Provincial,Prince Edward Island,Hip Replacement,Volume,2021FY,Number of cases,273.0
+Provincial,Prince Edward Island,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,52.8
+Provincial,Prince Edward Island,Knee Replacement,50th Percentile,2021FY,Days,169.0
+Provincial,Prince Edward Island,Knee Replacement,90th Percentile,2021FY,Days,438.9
+Provincial,Prince Edward Island,Knee Replacement,Volume,2021FY,Number of cases,506.0
+Provincial,Prince Edward Island,Lung Cancer Surgery,50th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,90th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,Volume,2021FY,Number of cases,N/A
+Provincial,Prince Edward Island,MRI Scan,50th Percentile,2021FY,Days,31.3
+Provincial,Prince Edward Island,MRI Scan,90th Percentile,2021FY,Days,213.0
+Provincial,Prince Edward Island,MRI Scan,Volume,2021FY,Number of cases,4594.0
+Provincial,Prince Edward Island,Prostate Cancer Surgery,50th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,90th Percentile,2021FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,Volume,2021FY,Number of cases,N/A
+Provincial,Prince Edward Island,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,98.1
+Provincial,Prince Edward Island,Radiation Therapy,50th Percentile,2021FY,Days,11.0
+Provincial,Prince Edward Island,Radiation Therapy,90th Percentile,2021FY,Days,20.0
+Provincial,Prince Edward Island,Radiation Therapy,Volume,2021FY,Number of cases,528.0
+Provincial,Quebec,Bladder Cancer Surgery,50th Percentile,2021FY,Days,27.0
+Provincial,Quebec,Bladder Cancer Surgery,90th Percentile,2021FY,Days,57.0
+Provincial,Quebec,Bladder Cancer Surgery,Volume,2021FY,Number of cases,7571.0
+Provincial,Quebec,Breast Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Quebec,Breast Cancer Surgery,90th Percentile,2021FY,Days,46.0
+Provincial,Quebec,Breast Cancer Surgery,Volume,2021FY,Number of cases,8141.0
+Provincial,Quebec,CABG,50th Percentile,2021FY,Days,N/A
+Provincial,Quebec,CABG,90th Percentile,2021FY,Days,N/A
+Provincial,Quebec,CABG,Volume,2021FY,Number of cases,N/A
+Provincial,Quebec,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,68.8826025459689
+Provincial,Quebec,Cataract Surgery,50th Percentile,2021FY,Days,63.0
+Provincial,Quebec,Cataract Surgery,90th Percentile,2021FY,Days,247.0
+Provincial,Quebec,Cataract Surgery,Volume,2021FY,Number of cases,93324.0
+Provincial,Quebec,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,22.0
+Provincial,Quebec,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,46.0
+Provincial,Quebec,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,3759.0
+Provincial,Quebec,CT Scan,50th Percentile,2021FY,Days,N/A
+Provincial,Quebec,CT Scan,90th Percentile,2021FY,Days,N/A
+Provincial,Quebec,CT Scan,Volume,2021FY,Number of cases,N/A
+Provincial,Quebec,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,50.8524548134855
+Provincial,Quebec,Hip Replacement,50th Percentile,2021FY,Days,179.0
+Provincial,Quebec,Hip Replacement,90th Percentile,2021FY,Days,448.0
+Provincial,Quebec,Hip Replacement,Volume,2021FY,Number of cases,7801.0
+Provincial,Quebec,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,42.2115895800106
+Provincial,Quebec,Knee Replacement,50th Percentile,2021FY,Days,216.0
+Provincial,Quebec,Knee Replacement,90th Percentile,2021FY,Days,516.0
+Provincial,Quebec,Knee Replacement,Volume,2021FY,Number of cases,9405.0
+Provincial,Quebec,Lung Cancer Surgery,50th Percentile,2021FY,Days,26.0
+Provincial,Quebec,Lung Cancer Surgery,90th Percentile,2021FY,Days,58.0
+Provincial,Quebec,Lung Cancer Surgery,Volume,2021FY,Number of cases,2819.0
+Provincial,Quebec,MRI Scan,50th Percentile,2021FY,Days,N/A
+Provincial,Quebec,MRI Scan,90th Percentile,2021FY,Days,N/A
+Provincial,Quebec,MRI Scan,Volume,2021FY,Number of cases,N/A
+Provincial,Quebec,Prostate Cancer Surgery,50th Percentile,2021FY,Days,36.0
+Provincial,Quebec,Prostate Cancer Surgery,90th Percentile,2021FY,Days,80.0
+Provincial,Quebec,Prostate Cancer Surgery,Volume,2021FY,Number of cases,1673.0
+Provincial,Quebec,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,99.5671590518722
+Provincial,Quebec,Radiation Therapy,50th Percentile,2021FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,90th Percentile,2021FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,Volume,2021FY,Number of cases,29110.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,50th Percentile,2021FY,Days,15.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,90th Percentile,2021FY,Days,28.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,Volume,2021FY,Number of cases,582.0
+Provincial,Saskatchewan,Breast Cancer Surgery,50th Percentile,2021FY,Days,17.0
+Provincial,Saskatchewan,Breast Cancer Surgery,90th Percentile,2021FY,Days,35.0
+Provincial,Saskatchewan,Breast Cancer Surgery,Volume,2021FY,Number of cases,770.0
+Provincial,Saskatchewan,CABG,50th Percentile,2021FY,Days,5.0
+Provincial,Saskatchewan,CABG,90th Percentile,2021FY,Days,70.0
+Provincial,Saskatchewan,CABG,Volume,2021FY,Number of cases,232.0
+Provincial,Saskatchewan,Cataract Surgery,% Meeting Benchmark,2021FY,Proportion,60.4426170032652
+Provincial,Saskatchewan,Cataract Surgery,50th Percentile,2021FY,Days,87.0
+Provincial,Saskatchewan,Cataract Surgery,90th Percentile,2021FY,Days,259.0
+Provincial,Saskatchewan,Cataract Surgery,Volume,2021FY,Number of cases,8269.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,50th Percentile,2021FY,Days,20.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,90th Percentile,2021FY,Days,40.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,Volume,2021FY,Number of cases,384.0
+Provincial,Saskatchewan,CT Scan,50th Percentile,2021FY,Days,29.0
+Provincial,Saskatchewan,CT Scan,90th Percentile,2021FY,Days,146.0
+Provincial,Saskatchewan,CT Scan,Volume,2021FY,Number of cases,45881.0
+Provincial,Saskatchewan,Hip Replacement,% Meeting Benchmark,2021FY,Proportion,40.1080351114112
+Provincial,Saskatchewan,Hip Replacement,50th Percentile,2021FY,Days,255.5
+Provincial,Saskatchewan,Hip Replacement,90th Percentile,2021FY,Days,594.0
+Provincial,Saskatchewan,Hip Replacement,Volume,2021FY,Number of cases,1481.0
+Provincial,Saskatchewan,Knee Replacement,% Meeting Benchmark,2021FY,Proportion,27.8846153846154
+Provincial,Saskatchewan,Knee Replacement,50th Percentile,2021FY,Days,429.0
+Provincial,Saskatchewan,Knee Replacement,90th Percentile,2021FY,Days,758.0
+Provincial,Saskatchewan,Knee Replacement,Volume,2021FY,Number of cases,1872.0
+Provincial,Saskatchewan,Lung Cancer Surgery,50th Percentile,2021FY,Days,16.0
+Provincial,Saskatchewan,Lung Cancer Surgery,90th Percentile,2021FY,Days,36.0
+Provincial,Saskatchewan,Lung Cancer Surgery,Volume,2021FY,Number of cases,109.0
+Provincial,Saskatchewan,MRI Scan,50th Percentile,2021FY,Days,35.0
+Provincial,Saskatchewan,MRI Scan,90th Percentile,2021FY,Days,195.0
+Provincial,Saskatchewan,MRI Scan,Volume,2021FY,Number of cases,24701.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,50th Percentile,2021FY,Days,42.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,90th Percentile,2021FY,Days,165.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,Volume,2021FY,Number of cases,208.0
+Provincial,Saskatchewan,Radiation Therapy,% Meeting Benchmark,2021FY,Proportion,98.12
+Provincial,Saskatchewan,Radiation Therapy,50th Percentile,2021FY,Days,6.0
+Provincial,Saskatchewan,Radiation Therapy,90th Percentile,2021FY,Days,19.0
+Provincial,Saskatchewan,Radiation Therapy,Volume,2021FY,Number of cases,2343.0
+Provincial,Alberta,Bladder Cancer Surgery,50th Percentile,2022FY,Days,30.0
+Provincial,Alberta,Bladder Cancer Surgery,90th Percentile,2022FY,Days,77.0
+Provincial,Alberta,Bladder Cancer Surgery,Volume,2022FY,Number of cases,2027.0
+Provincial,Alberta,Breast Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,Alberta,Breast Cancer Surgery,90th Percentile,2022FY,Days,42.0
+Provincial,Alberta,Breast Cancer Surgery,Volume,2022FY,Number of cases,3715.0
+Provincial,Alberta,CABG,50th Percentile,2022FY,Days,7.0
+Provincial,Alberta,CABG,90th Percentile,2022FY,Days,57.0
+Provincial,Alberta,CABG,Volume,2022FY,Number of cases,968.0
+Provincial,Alberta,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,64.7
+Provincial,Alberta,Cataract Surgery,50th Percentile,2022FY,Days,76.0
+Provincial,Alberta,Cataract Surgery,90th Percentile,2022FY,Days,249.0
+Provincial,Alberta,Cataract Surgery,Volume,2022FY,Number of cases,27973.0
+Provincial,Alberta,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,27.0
+Provincial,Alberta,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,67.0
+Provincial,Alberta,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,1407.0
+Provincial,Alberta,CT Scan,50th Percentile,2022FY,Days,16.0
+Provincial,Alberta,CT Scan,90th Percentile,2022FY,Days,88.0
+Provincial,Alberta,CT Scan,Volume,2022FY,Number of cases,143742.0
+Provincial,Alberta,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,43.0
+Provincial,Alberta,Hip Replacement,50th Percentile,2022FY,Days,217.0
+Provincial,Alberta,Hip Replacement,90th Percentile,2022FY,Days,501.0
+Provincial,Alberta,Hip Replacement,Volume,2022FY,Number of cases,5267.0
+Provincial,Alberta,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,32.5
+Provincial,Alberta,Knee Replacement,50th Percentile,2022FY,Days,285.0
+Provincial,Alberta,Knee Replacement,90th Percentile,2022FY,Days,596.0
+Provincial,Alberta,Knee Replacement,Volume,2022FY,Number of cases,7269.0
+Provincial,Alberta,Lung Cancer Surgery,50th Percentile,2022FY,Days,32.0
+Provincial,Alberta,Lung Cancer Surgery,90th Percentile,2022FY,Days,74.0
+Provincial,Alberta,Lung Cancer Surgery,Volume,2022FY,Number of cases,800.0
+Provincial,Alberta,MRI Scan,50th Percentile,2022FY,Days,48.0
+Provincial,Alberta,MRI Scan,90th Percentile,2022FY,Days,182.0
+Provincial,Alberta,MRI Scan,Volume,2022FY,Number of cases,123788.0
+Provincial,Alberta,Prostate Cancer Surgery,50th Percentile,2022FY,Days,75.0
+Provincial,Alberta,Prostate Cancer Surgery,90th Percentile,2022FY,Days,167.0
+Provincial,Alberta,Prostate Cancer Surgery,Volume,2022FY,Number of cases,1053.0
+Provincial,Alberta,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,95.6661494125471
+Provincial,Alberta,Radiation Therapy,50th Percentile,2022FY,Days,10.0
+Provincial,Alberta,Radiation Therapy,90th Percentile,2022FY,Days,22.0
+Provincial,Alberta,Radiation Therapy,Volume,2022FY,Number of cases,9022.0
+Provincial,British Columbia,Bladder Cancer Surgery,50th Percentile,2022FY,Days,25.0
+Provincial,British Columbia,Bladder Cancer Surgery,90th Percentile,2022FY,Days,61.0
+Provincial,British Columbia,Bladder Cancer Surgery,Volume,2022FY,Number of cases,3804.0
+Provincial,British Columbia,Breast Cancer Surgery,50th Percentile,2022FY,Days,20.0
+Provincial,British Columbia,Breast Cancer Surgery,90th Percentile,2022FY,Days,45.0
+Provincial,British Columbia,Breast Cancer Surgery,Volume,2022FY,Number of cases,4626.0
+Provincial,British Columbia,CABG,50th Percentile,2022FY,Days,9.0
+Provincial,British Columbia,CABG,90th Percentile,2022FY,Days,106.0
+Provincial,British Columbia,CABG,Volume,2022FY,Number of cases,1742.0
+Provincial,British Columbia,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,81.036981874759
+Provincial,British Columbia,Cataract Surgery,50th Percentile,2022FY,Days,43.0
+Provincial,British Columbia,Cataract Surgery,90th Percentile,2022FY,Days,162.0
+Provincial,British Columbia,Cataract Surgery,Volume,2022FY,Number of cases,75199.0
+Provincial,British Columbia,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,British Columbia,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,50.0
+Provincial,British Columbia,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,1844.0
+Provincial,British Columbia,CT Scan,50th Percentile,2022FY,Days,23.0
+Provincial,British Columbia,CT Scan,90th Percentile,2022FY,Days,146.0
+Provincial,British Columbia,CT Scan,Volume,2022FY,Number of cases,291709.0
+Provincial,British Columbia,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,61.8401206636501
+Provincial,British Columbia,Hip Replacement,50th Percentile,2022FY,Days,145.0
+Provincial,British Columbia,Hip Replacement,90th Percentile,2022FY,Days,333.0
+Provincial,British Columbia,Hip Replacement,Volume,2022FY,Number of cases,7293.0
+Provincial,British Columbia,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,56.2837316885119
+Provincial,British Columbia,Knee Replacement,50th Percentile,2022FY,Days,161.0
+Provincial,British Columbia,Knee Replacement,90th Percentile,2022FY,Days,403.0
+Provincial,British Columbia,Knee Replacement,Volume,2022FY,Number of cases,10376.0
+Provincial,British Columbia,Lung Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,British Columbia,Lung Cancer Surgery,90th Percentile,2022FY,Days,62.0
+Provincial,British Columbia,Lung Cancer Surgery,Volume,2022FY,Number of cases,1020.0
+Provincial,British Columbia,MRI Scan,50th Percentile,2022FY,Days,54.0
+Provincial,British Columbia,MRI Scan,90th Percentile,2022FY,Days,145.0
+Provincial,British Columbia,MRI Scan,Volume,2022FY,Number of cases,192202.0
+Provincial,British Columbia,Prostate Cancer Surgery,50th Percentile,2022FY,Days,41.0
+Provincial,British Columbia,Prostate Cancer Surgery,90th Percentile,2022FY,Days,121.0
+Provincial,British Columbia,Prostate Cancer Surgery,Volume,2022FY,Number of cases,1061.0
+Provincial,British Columbia,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,83.7099596743514
+Provincial,British Columbia,Radiation Therapy,50th Percentile,2022FY,Days,14.0
+Provincial,British Columbia,Radiation Therapy,90th Percentile,2022FY,Days,35.0
+Provincial,British Columbia,Radiation Therapy,Volume,2022FY,Number of cases,13143.0
+Provincial,Manitoba,Bladder Cancer Surgery,50th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,90th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,Volume,2022FY,Number of cases,N/A
+Provincial,Manitoba,Breast Cancer Surgery,50th Percentile,2022FY,Days,28.0
+Provincial,Manitoba,Breast Cancer Surgery,90th Percentile,2022FY,Days,63.8000000000001
+Provincial,Manitoba,Breast Cancer Surgery,Volume,2022FY,Number of cases,713.0
+Provincial,Manitoba,CABG,50th Percentile,2022FY,Days,12.0
+Provincial,Manitoba,CABG,90th Percentile,2022FY,Days,87.0
+Provincial,Manitoba,CABG,Volume,2022FY,Number of cases,373.0
+Provincial,Manitoba,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,53.0
+Provincial,Manitoba,Cataract Surgery,50th Percentile,2022FY,Days,100.0
+Provincial,Manitoba,Cataract Surgery,90th Percentile,2022FY,Days,489.0
+Provincial,Manitoba,Cataract Surgery,Volume,2022FY,Number of cases,9511.0
+Provincial,Manitoba,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,N/A
+Provincial,Manitoba,CT Scan,50th Percentile,2022FY,Days,36.0
+Provincial,Manitoba,CT Scan,90th Percentile,2022FY,Days,119.0
+Provincial,Manitoba,CT Scan,Volume,2022FY,Number of cases,69670.0
+Provincial,Manitoba,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,47.4625422909618
+Provincial,Manitoba,Hip Replacement,50th Percentile,2022FY,Days,194.0
+Provincial,Manitoba,Hip Replacement,90th Percentile,2022FY,Days,546.2
+Provincial,Manitoba,Hip Replacement,Volume,2022FY,Number of cases,2069.0
+Provincial,Manitoba,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,32.7800829875519
+Provincial,Manitoba,Knee Replacement,50th Percentile,2022FY,Days,287.0
+Provincial,Manitoba,Knee Replacement,90th Percentile,2022FY,Days,629.0
+Provincial,Manitoba,Knee Replacement,Volume,2022FY,Number of cases,3133.0
+Provincial,Manitoba,Lung Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,Manitoba,Lung Cancer Surgery,90th Percentile,2022FY,Days,56.4
+Provincial,Manitoba,Lung Cancer Surgery,Volume,2022FY,Number of cases,279.0
+Provincial,Manitoba,MRI Scan,50th Percentile,2022FY,Days,116.0
+Provincial,Manitoba,MRI Scan,90th Percentile,2022FY,Days,209.0
+Provincial,Manitoba,MRI Scan,Volume,2022FY,Number of cases,36840.0
+Provincial,Manitoba,Prostate Cancer Surgery,50th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,90th Percentile,2022FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,Volume,2022FY,Number of cases,N/A
+Provincial,Manitoba,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,100.0
+Provincial,Manitoba,Radiation Therapy,50th Percentile,2022FY,Days,16.0
+Provincial,Manitoba,Radiation Therapy,90th Percentile,2022FY,Days,24.0
+Provincial,Manitoba,Radiation Therapy,Volume,2022FY,Number of cases,3684.0
+Provincial,New Brunswick,Bladder Cancer Surgery,50th Percentile,2022FY,Days,24.0
+Provincial,New Brunswick,Bladder Cancer Surgery,90th Percentile,2022FY,Days,54.0
+Provincial,New Brunswick,Bladder Cancer Surgery,Volume,2022FY,Number of cases,527.0
+Provincial,New Brunswick,Breast Cancer Surgery,50th Percentile,2022FY,Days,24.0
+Provincial,New Brunswick,Breast Cancer Surgery,90th Percentile,2022FY,Days,49.0
+Provincial,New Brunswick,Breast Cancer Surgery,Volume,2022FY,Number of cases,778.0
+Provincial,New Brunswick,CABG,50th Percentile,2022FY,Days,9.0
+Provincial,New Brunswick,CABG,90th Percentile,2022FY,Days,136.0
+Provincial,New Brunswick,CABG,Volume,2022FY,Number of cases,444.0
+Provincial,New Brunswick,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,59.0
+Provincial,New Brunswick,Cataract Surgery,50th Percentile,2022FY,Days,72.0
+Provincial,New Brunswick,Cataract Surgery,90th Percentile,2022FY,Days,327.0
+Provincial,New Brunswick,Cataract Surgery,Volume,2022FY,Number of cases,12763.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,23.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,60.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,444.0
+Provincial,New Brunswick,CT Scan,50th Percentile,2022FY,Days,N/A
+Provincial,New Brunswick,CT Scan,90th Percentile,2022FY,Days,N/A
+Provincial,New Brunswick,CT Scan,Volume,2022FY,Number of cases,N/A
+Provincial,New Brunswick,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,37.0
+Provincial,New Brunswick,Hip Replacement,50th Percentile,2022FY,Days,257.0
+Provincial,New Brunswick,Hip Replacement,90th Percentile,2022FY,Days,503.0
+Provincial,New Brunswick,Hip Replacement,Volume,2022FY,Number of cases,1276.0
+Provincial,New Brunswick,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,28.0
+Provincial,New Brunswick,Knee Replacement,50th Percentile,2022FY,Days,290.0
+Provincial,New Brunswick,Knee Replacement,90th Percentile,2022FY,Days,612.0
+Provincial,New Brunswick,Knee Replacement,Volume,2022FY,Number of cases,1967.0
+Provincial,New Brunswick,Lung Cancer Surgery,50th Percentile,2022FY,Days,33.0
+Provincial,New Brunswick,Lung Cancer Surgery,90th Percentile,2022FY,Days,65.0
+Provincial,New Brunswick,Lung Cancer Surgery,Volume,2022FY,Number of cases,162.0
+Provincial,New Brunswick,MRI Scan,50th Percentile,2022FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,90th Percentile,2022FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,Volume,2022FY,Number of cases,N/A
+Provincial,New Brunswick,Prostate Cancer Surgery,50th Percentile,2022FY,Days,46.0
+Provincial,New Brunswick,Prostate Cancer Surgery,90th Percentile,2022FY,Days,105.0
+Provincial,New Brunswick,Prostate Cancer Surgery,Volume,2022FY,Number of cases,167.0
+Provincial,New Brunswick,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,96.4545066211021
+Provincial,New Brunswick,Radiation Therapy,50th Percentile,2022FY,Days,12.0
+Provincial,New Brunswick,Radiation Therapy,90th Percentile,2022FY,Days,24.0
+Provincial,New Brunswick,Radiation Therapy,Volume,2022FY,Number of cases,2341.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,50th Percentile,2022FY,Days,24.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,90th Percentile,2022FY,Days,55.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,Volume,2022FY,Number of cases,222.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,50th Percentile,2022FY,Days,20.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,90th Percentile,2022FY,Days,43.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,Volume,2022FY,Number of cases,430.0
+Provincial,Newfoundland and Labrador,CABG,50th Percentile,2022FY,Days,13.0
+Provincial,Newfoundland and Labrador,CABG,90th Percentile,2022FY,Days,168.0
+Provincial,Newfoundland and Labrador,CABG,Volume,2022FY,Number of cases,371.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,37.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,50th Percentile,2022FY,Days,153.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,90th Percentile,2022FY,Days,456.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,Volume,2022FY,Number of cases,2527.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,18.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,41.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,336.0
+Provincial,Newfoundland and Labrador,CT Scan,50th Percentile,2022FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,90th Percentile,2022FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,Volume,2022FY,Number of cases,92334.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2022FY,Proportion,96.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2022FY,Hours,23.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2022FY,Hours,43.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,Volume,2022FY,Number of cases,369.0
+Provincial,Newfoundland and Labrador,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,44.0
+Provincial,Newfoundland and Labrador,Hip Replacement,50th Percentile,2022FY,Days,204.0
+Provincial,Newfoundland and Labrador,Hip Replacement,90th Percentile,2022FY,Days,554.0
+Provincial,Newfoundland and Labrador,Hip Replacement,Volume,2022FY,Number of cases,533.0
+Provincial,Newfoundland and Labrador,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,36.0
+Provincial,Newfoundland and Labrador,Knee Replacement,50th Percentile,2022FY,Days,349.0
+Provincial,Newfoundland and Labrador,Knee Replacement,90th Percentile,2022FY,Days,606.0
+Provincial,Newfoundland and Labrador,Knee Replacement,Volume,2022FY,Number of cases,696.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,50th Percentile,2022FY,Days,15.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,90th Percentile,2022FY,Days,33.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,Volume,2022FY,Number of cases,49.0
+Provincial,Newfoundland and Labrador,MRI Scan,50th Percentile,2022FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,90th Percentile,2022FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,Volume,2022FY,Number of cases,19975.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,50th Percentile,2022FY,Days,35.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,90th Percentile,2022FY,Days,69.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,Volume,2022FY,Number of cases,148.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,80.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,50th Percentile,2022FY,Days,20.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,90th Percentile,2022FY,Days,35.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,Volume,2022FY,Number of cases,1036.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,50th Percentile,2022FY,Days,32.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,90th Percentile,2022FY,Days,129.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,Volume,2022FY,Number of cases,797.0
+Provincial,Nova Scotia,Breast Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,Nova Scotia,Breast Cancer Surgery,90th Percentile,2022FY,Days,44.0
+Provincial,Nova Scotia,Breast Cancer Surgery,Volume,2022FY,Number of cases,983.0
+Provincial,Nova Scotia,CABG,50th Percentile,2022FY,Days,8.0
+Provincial,Nova Scotia,CABG,90th Percentile,2022FY,Days,91.0
+Provincial,Nova Scotia,CABG,Volume,2022FY,Number of cases,311.0
+Provincial,Nova Scotia,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,60.0
+Provincial,Nova Scotia,Cataract Surgery,50th Percentile,2022FY,Days,85.0
+Provincial,Nova Scotia,Cataract Surgery,90th Percentile,2022FY,Days,279.0
+Provincial,Nova Scotia,Cataract Surgery,Volume,2022FY,Number of cases,10079.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,25.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,53.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,483.0
+Provincial,Nova Scotia,CT Scan,50th Percentile,2022FY,Days,36.0
+Provincial,Nova Scotia,CT Scan,90th Percentile,2022FY,Days,165.0
+Provincial,Nova Scotia,CT Scan,Volume,2022FY,Number of cases,76774.0
+Provincial,Nova Scotia,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,50.7
+Provincial,Nova Scotia,Hip Replacement,50th Percentile,2022FY,Days,179.0
+Provincial,Nova Scotia,Hip Replacement,90th Percentile,2022FY,Days,634.0
+Provincial,Nova Scotia,Hip Replacement,Volume,2022FY,Number of cases,1586.0
+Provincial,Nova Scotia,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,41.1
+Provincial,Nova Scotia,Knee Replacement,50th Percentile,2022FY,Days,226.0
+Provincial,Nova Scotia,Knee Replacement,90th Percentile,2022FY,Days,686.0
+Provincial,Nova Scotia,Knee Replacement,Volume,2022FY,Number of cases,2208.0
+Provincial,Nova Scotia,Lung Cancer Surgery,50th Percentile,2022FY,Days,25.0
+Provincial,Nova Scotia,Lung Cancer Surgery,90th Percentile,2022FY,Days,71.0
+Provincial,Nova Scotia,Lung Cancer Surgery,Volume,2022FY,Number of cases,390.0
+Provincial,Nova Scotia,MRI Scan,50th Percentile,2022FY,Days,83.0
+Provincial,Nova Scotia,MRI Scan,90th Percentile,2022FY,Days,337.0
+Provincial,Nova Scotia,MRI Scan,Volume,2022FY,Number of cases,23972.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,50th Percentile,2022FY,Days,143.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,90th Percentile,2022FY,Days,206.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,Volume,2022FY,Number of cases,222.0
+Provincial,Nova Scotia,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,N/A
+Provincial,Nova Scotia,Radiation Therapy,50th Percentile,2022FY,Days,N/A
+Provincial,Nova Scotia,Radiation Therapy,90th Percentile,2022FY,Days,N/A
+Provincial,Nova Scotia,Radiation Therapy,Volume,2022FY,Number of cases,N/A
+Provincial,Ontario,Bladder Cancer Surgery,50th Percentile,2022FY,Days,27.0
+Provincial,Ontario,Bladder Cancer Surgery,90th Percentile,2022FY,Days,74.0
+Provincial,Ontario,Bladder Cancer Surgery,Volume,2022FY,Number of cases,11659.0
+Provincial,Ontario,Breast Cancer Surgery,50th Percentile,2022FY,Days,20.0
+Provincial,Ontario,Breast Cancer Surgery,90th Percentile,2022FY,Days,42.0
+Provincial,Ontario,Breast Cancer Surgery,Volume,2022FY,Number of cases,13590.0
+Provincial,Ontario,CABG,50th Percentile,2022FY,Days,8.0
+Provincial,Ontario,CABG,90th Percentile,2022FY,Days,70.0
+Provincial,Ontario,CABG,Volume,2022FY,Number of cases,6218.0
+Provincial,Ontario,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,61.225
+Provincial,Ontario,Cataract Surgery,50th Percentile,2022FY,Days,80.0
+Provincial,Ontario,Cataract Surgery,90th Percentile,2022FY,Days,313.0
+Provincial,Ontario,Cataract Surgery,Volume,2022FY,Number of cases,148000.0
+Provincial,Ontario,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,20.0
+Provincial,Ontario,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,43.0
+Provincial,Ontario,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,4946.0
+Provincial,Ontario,CT Scan,50th Percentile,2022FY,Days,8.0
+Provincial,Ontario,CT Scan,90th Percentile,2022FY,Days,81.0
+Provincial,Ontario,CT Scan,Volume,2022FY,Number of cases,1114820.0
+Provincial,Ontario,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,73.345041221523
+Provincial,Ontario,Hip Replacement,50th Percentile,2022FY,Days,103.0
+Provincial,Ontario,Hip Replacement,90th Percentile,2022FY,Days,320.0
+Provincial,Ontario,Hip Replacement,Volume,2022FY,Number of cases,20499.0
+Provincial,Ontario,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,70.6141431563385
+Provincial,Ontario,Knee Replacement,50th Percentile,2022FY,Days,108.0
+Provincial,Ontario,Knee Replacement,90th Percentile,2022FY,Days,360.0
+Provincial,Ontario,Knee Replacement,Volume,2022FY,Number of cases,32468.0
+Provincial,Ontario,Lung Cancer Surgery,50th Percentile,2022FY,Days,22.0
+Provincial,Ontario,Lung Cancer Surgery,90th Percentile,2022FY,Days,48.0
+Provincial,Ontario,Lung Cancer Surgery,Volume,2022FY,Number of cases,3208.0
+Provincial,Ontario,MRI Scan,50th Percentile,2022FY,Days,34.0
+Provincial,Ontario,MRI Scan,90th Percentile,2022FY,Days,152.0
+Provincial,Ontario,MRI Scan,Volume,2022FY,Number of cases,777238.0
+Provincial,Ontario,Prostate Cancer Surgery,50th Percentile,2022FY,Days,48.0
+Provincial,Ontario,Prostate Cancer Surgery,90th Percentile,2022FY,Days,124.0
+Provincial,Ontario,Prostate Cancer Surgery,Volume,2022FY,Number of cases,2539.0
+Provincial,Ontario,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,98.21
+Provincial,Ontario,Radiation Therapy,50th Percentile,2022FY,Days,9.8
+Provincial,Ontario,Radiation Therapy,90th Percentile,2022FY,Days,18.2
+Provincial,Ontario,Radiation Therapy,Volume,2022FY,Number of cases,37769.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,50th Percentile,2022FY,Days,22.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,90th Percentile,2022FY,Days,60.8
+Provincial,Prince Edward Island,Bladder Cancer Surgery,Volume,2022FY,Number of cases,69.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,50th Percentile,2022FY,Days,17.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,90th Percentile,2022FY,Days,42.4
+Provincial,Prince Edward Island,Breast Cancer Surgery,Volume,2022FY,Number of cases,117.0
+Provincial,Prince Edward Island,CABG,50th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,CABG,90th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,CABG,Volume,2022FY,Number of cases,N/A
+Provincial,Prince Edward Island,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,32.0
+Provincial,Prince Edward Island,Cataract Surgery,50th Percentile,2022FY,Days,159.4
+Provincial,Prince Edward Island,Cataract Surgery,90th Percentile,2022FY,Days,512.6
+Provincial,Prince Edward Island,Cataract Surgery,Volume,2022FY,Number of cases,1046.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,15.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,46.7
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,74.0
+Provincial,Prince Edward Island,CT Scan,50th Percentile,2022FY,Days,24.2
+Provincial,Prince Edward Island,CT Scan,90th Percentile,2022FY,Days,130.1
+Provincial,Prince Edward Island,CT Scan,Volume,2022FY,Number of cases,10998.0
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2022FY,Proportion,90.7
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2022FY,Hours,14.8
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2022FY,Hours,45.8
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,Volume,2022FY,Number of cases,183.0
+Provincial,Prince Edward Island,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,48.2
+Provincial,Prince Edward Island,Hip Replacement,50th Percentile,2022FY,Days,191.4
+Provincial,Prince Edward Island,Hip Replacement,90th Percentile,2022FY,Days,581.9
+Provincial,Prince Edward Island,Hip Replacement,Volume,2022FY,Number of cases,193.0
+Provincial,Prince Edward Island,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,34.5
+Provincial,Prince Edward Island,Knee Replacement,50th Percentile,2022FY,Days,223.5
+Provincial,Prince Edward Island,Knee Replacement,90th Percentile,2022FY,Days,549.0
+Provincial,Prince Edward Island,Knee Replacement,Volume,2022FY,Number of cases,336.0
+Provincial,Prince Edward Island,Lung Cancer Surgery,50th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,90th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,Volume,2022FY,Number of cases,N/A
+Provincial,Prince Edward Island,MRI Scan,50th Percentile,2022FY,Days,41.0
+Provincial,Prince Edward Island,MRI Scan,90th Percentile,2022FY,Days,268.3
+Provincial,Prince Edward Island,MRI Scan,Volume,2022FY,Number of cases,4010.0
+Provincial,Prince Edward Island,Prostate Cancer Surgery,50th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,90th Percentile,2022FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,Volume,2022FY,Number of cases,N/A
+Provincial,Prince Edward Island,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,96.4
+Provincial,Prince Edward Island,Radiation Therapy,50th Percentile,2022FY,Days,13.0
+Provincial,Prince Edward Island,Radiation Therapy,90th Percentile,2022FY,Days,24.0
+Provincial,Prince Edward Island,Radiation Therapy,Volume,2022FY,Number of cases,527.0
+Provincial,Quebec,Bladder Cancer Surgery,50th Percentile,2022FY,Days,29.0
+Provincial,Quebec,Bladder Cancer Surgery,90th Percentile,2022FY,Days,62.0
+Provincial,Quebec,Bladder Cancer Surgery,Volume,2022FY,Number of cases,7042.0
+Provincial,Quebec,Breast Cancer Surgery,50th Percentile,2022FY,Days,24.0
+Provincial,Quebec,Breast Cancer Surgery,90th Percentile,2022FY,Days,50.0
+Provincial,Quebec,Breast Cancer Surgery,Volume,2022FY,Number of cases,9592.0
+Provincial,Quebec,CABG,50th Percentile,2022FY,Days,N/A
+Provincial,Quebec,CABG,90th Percentile,2022FY,Days,N/A
+Provincial,Quebec,CABG,Volume,2022FY,Number of cases,6710.0
+Provincial,Quebec,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,68.4160771567565
+Provincial,Quebec,Cataract Surgery,50th Percentile,2022FY,Days,64.0
+Provincial,Quebec,Cataract Surgery,90th Percentile,2022FY,Days,238.0
+Provincial,Quebec,Cataract Surgery,Volume,2022FY,Number of cases,94146.0
+Provincial,Quebec,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,24.0
+Provincial,Quebec,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,50.0
+Provincial,Quebec,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,3922.0
+Provincial,Quebec,CT Scan,50th Percentile,2022FY,Days,N/A
+Provincial,Quebec,CT Scan,90th Percentile,2022FY,Days,N/A
+Provincial,Quebec,CT Scan,Volume,2022FY,Number of cases,N/A
+Provincial,Quebec,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,46.1638774179526
+Provincial,Quebec,Hip Replacement,50th Percentile,2022FY,Days,201.0
+Provincial,Quebec,Hip Replacement,90th Percentile,2022FY,Days,472.0
+Provincial,Quebec,Hip Replacement,Volume,2022FY,Number of cases,9202.0
+Provincial,Quebec,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,34.2732839187883
+Provincial,Quebec,Knee Replacement,50th Percentile,2022FY,Days,262.0
+Provincial,Quebec,Knee Replacement,90th Percentile,2022FY,Days,583.0
+Provincial,Quebec,Knee Replacement,Volume,2022FY,Number of cases,12412.0
+Provincial,Quebec,Lung Cancer Surgery,50th Percentile,2022FY,Days,27.0
+Provincial,Quebec,Lung Cancer Surgery,90th Percentile,2022FY,Days,59.0
+Provincial,Quebec,Lung Cancer Surgery,Volume,2022FY,Number of cases,2833.0
+Provincial,Quebec,MRI Scan,50th Percentile,2022FY,Days,N/A
+Provincial,Quebec,MRI Scan,90th Percentile,2022FY,Days,N/A
+Provincial,Quebec,MRI Scan,Volume,2022FY,Number of cases,N/A
+Provincial,Quebec,Prostate Cancer Surgery,50th Percentile,2022FY,Days,43.0
+Provincial,Quebec,Prostate Cancer Surgery,90th Percentile,2022FY,Days,87.0
+Provincial,Quebec,Prostate Cancer Surgery,Volume,2022FY,Number of cases,1699.0
+Provincial,Quebec,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,97.993093780984
+Provincial,Quebec,Radiation Therapy,50th Percentile,2022FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,90th Percentile,2022FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,Volume,2022FY,Number of cases,29249.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,50th Percentile,2022FY,Days,15.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,90th Percentile,2022FY,Days,33.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,Volume,2022FY,Number of cases,629.0
+Provincial,Saskatchewan,Breast Cancer Surgery,50th Percentile,2022FY,Days,22.0
+Provincial,Saskatchewan,Breast Cancer Surgery,90th Percentile,2022FY,Days,51.0
+Provincial,Saskatchewan,Breast Cancer Surgery,Volume,2022FY,Number of cases,960.0
+Provincial,Saskatchewan,CABG,50th Percentile,2022FY,Days,6.0
+Provincial,Saskatchewan,CABG,90th Percentile,2022FY,Days,42.0
+Provincial,Saskatchewan,CABG,Volume,2022FY,Number of cases,308.0
+Provincial,Saskatchewan,Cataract Surgery,% Meeting Benchmark,2022FY,Proportion,65.1510496671787
+Provincial,Saskatchewan,Cataract Surgery,50th Percentile,2022FY,Days,76.0
+Provincial,Saskatchewan,Cataract Surgery,90th Percentile,2022FY,Days,252.5
+Provincial,Saskatchewan,Cataract Surgery,Volume,2022FY,Number of cases,9765.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,50th Percentile,2022FY,Days,21.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,90th Percentile,2022FY,Days,49.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,Volume,2022FY,Number of cases,368.0
+Provincial,Saskatchewan,CT Scan,50th Percentile,2022FY,Days,25.0
+Provincial,Saskatchewan,CT Scan,90th Percentile,2022FY,Days,129.0
+Provincial,Saskatchewan,CT Scan,Volume,2022FY,Number of cases,53315.0
+Provincial,Saskatchewan,Hip Replacement,% Meeting Benchmark,2022FY,Proportion,36.2940926476838
+Provincial,Saskatchewan,Hip Replacement,50th Percentile,2022FY,Days,285.0
+Provincial,Saskatchewan,Hip Replacement,90th Percentile,2022FY,Days,716.0
+Provincial,Saskatchewan,Hip Replacement,Volume,2022FY,Number of cases,2353.0
+Provincial,Saskatchewan,Knee Replacement,% Meeting Benchmark,2022FY,Proportion,23.7135856248298
+Provincial,Saskatchewan,Knee Replacement,50th Percentile,2022FY,Days,458.0
+Provincial,Saskatchewan,Knee Replacement,90th Percentile,2022FY,Days,817.0
+Provincial,Saskatchewan,Knee Replacement,Volume,2022FY,Number of cases,3673.0
+Provincial,Saskatchewan,Lung Cancer Surgery,50th Percentile,2022FY,Days,19.0
+Provincial,Saskatchewan,Lung Cancer Surgery,90th Percentile,2022FY,Days,40.0
+Provincial,Saskatchewan,Lung Cancer Surgery,Volume,2022FY,Number of cases,126.0
+Provincial,Saskatchewan,MRI Scan,50th Percentile,2022FY,Days,42.0
+Provincial,Saskatchewan,MRI Scan,90th Percentile,2022FY,Days,203.0
+Provincial,Saskatchewan,MRI Scan,Volume,2022FY,Number of cases,23840.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,50th Percentile,2022FY,Days,49.5
+Provincial,Saskatchewan,Prostate Cancer Surgery,90th Percentile,2022FY,Days,140.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,Volume,2022FY,Number of cases,222.0
+Provincial,Saskatchewan,Radiation Therapy,% Meeting Benchmark,2022FY,Proportion,97.76
+Provincial,Saskatchewan,Radiation Therapy,50th Percentile,2022FY,Days,8.0
+Provincial,Saskatchewan,Radiation Therapy,90th Percentile,2022FY,Days,20.0
+Provincial,Saskatchewan,Radiation Therapy,Volume,2022FY,Number of cases,2460.0
+Provincial,Alberta,Bladder Cancer Surgery,50th Percentile,2023FY,Days,33.0
+Provincial,Alberta,Bladder Cancer Surgery,90th Percentile,2023FY,Days,79.0
+Provincial,Alberta,Bladder Cancer Surgery,Volume,2023FY,Number of cases,2301.0
+Provincial,Alberta,Breast Cancer Surgery,50th Percentile,2023FY,Days,22.0
+Provincial,Alberta,Breast Cancer Surgery,90th Percentile,2023FY,Days,45.0
+Provincial,Alberta,Breast Cancer Surgery,Volume,2023FY,Number of cases,4262.0
+Provincial,Alberta,CABG,50th Percentile,2023FY,Days,7.6
+Provincial,Alberta,CABG,90th Percentile,2023FY,Days,85.1
+Provincial,Alberta,CABG,Volume,2023FY,Number of cases,1048.0
+Provincial,Alberta,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,59.7
+Provincial,Alberta,Cataract Surgery,50th Percentile,2023FY,Days,91.0
+Provincial,Alberta,Cataract Surgery,90th Percentile,2023FY,Days,241.0
+Provincial,Alberta,Cataract Surgery,Volume,2023FY,Number of cases,31141.0
+Provincial,Alberta,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,25.0
+Provincial,Alberta,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,58.0
+Provincial,Alberta,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,1437.0
+Provincial,Alberta,CT Scan,50th Percentile,2023FY,Days,28.0
+Provincial,Alberta,CT Scan,90th Percentile,2023FY,Days,91.0
+Provincial,Alberta,CT Scan,Volume,2023FY,Number of cases,167163.0
+Provincial,Alberta,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,62.4
+Provincial,Alberta,Hip Replacement,50th Percentile,2023FY,Days,131.0
+Provincial,Alberta,Hip Replacement,90th Percentile,2023FY,Days,433.0
+Provincial,Alberta,Hip Replacement,Volume,2023FY,Number of cases,5821.0
+Provincial,Alberta,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,53.3
+Provincial,Alberta,Knee Replacement,50th Percentile,2023FY,Days,167.0
+Provincial,Alberta,Knee Replacement,90th Percentile,2023FY,Days,512.0
+Provincial,Alberta,Knee Replacement,Volume,2023FY,Number of cases,9103.0
+Provincial,Alberta,Lung Cancer Surgery,50th Percentile,2023FY,Days,32.0
+Provincial,Alberta,Lung Cancer Surgery,90th Percentile,2023FY,Days,64.0
+Provincial,Alberta,Lung Cancer Surgery,Volume,2023FY,Number of cases,828.0
+Provincial,Alberta,MRI Scan,50th Percentile,2023FY,Days,47.0
+Provincial,Alberta,MRI Scan,90th Percentile,2023FY,Days,168.0
+Provincial,Alberta,MRI Scan,Volume,2023FY,Number of cases,135361.0
+Provincial,Alberta,Prostate Cancer Surgery,50th Percentile,2023FY,Days,56.0
+Provincial,Alberta,Prostate Cancer Surgery,90th Percentile,2023FY,Days,150.0
+Provincial,Alberta,Prostate Cancer Surgery,Volume,2023FY,Number of cases,1031.0
+Provincial,Alberta,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,96.4662875710804
+Provincial,Alberta,Radiation Therapy,50th Percentile,2023FY,Days,11.0
+Provincial,Alberta,Radiation Therapy,90th Percentile,2023FY,Days,21.0
+Provincial,Alberta,Radiation Therapy,Volume,2023FY,Number of cases,9848.0
+Provincial,British Columbia,Bladder Cancer Surgery,50th Percentile,2023FY,Days,24.0
+Provincial,British Columbia,Bladder Cancer Surgery,90th Percentile,2023FY,Days,55.0
+Provincial,British Columbia,Bladder Cancer Surgery,Volume,2023FY,Number of cases,3997.0
+Provincial,British Columbia,Breast Cancer Surgery,50th Percentile,2023FY,Days,19.0
+Provincial,British Columbia,Breast Cancer Surgery,90th Percentile,2023FY,Days,45.0
+Provincial,British Columbia,Breast Cancer Surgery,Volume,2023FY,Number of cases,4624.0
+Provincial,British Columbia,CABG,50th Percentile,2023FY,Days,9.0
+Provincial,British Columbia,CABG,90th Percentile,2023FY,Days,83.0
+Provincial,British Columbia,CABG,Volume,2023FY,Number of cases,1650.0
+Provincial,British Columbia,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,82.3255259708449
+Provincial,British Columbia,Cataract Surgery,50th Percentile,2023FY,Days,42.0
+Provincial,British Columbia,Cataract Surgery,90th Percentile,2023FY,Days,158.0
+Provincial,British Columbia,Cataract Surgery,Volume,2023FY,Number of cases,75527.0
+Provincial,British Columbia,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,20.0
+Provincial,British Columbia,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,48.0
+Provincial,British Columbia,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,1952.0
+Provincial,British Columbia,CT Scan,50th Percentile,2023FY,Days,27.0
+Provincial,British Columbia,CT Scan,90th Percentile,2023FY,Days,183.0
+Provincial,British Columbia,CT Scan,Volume,2023FY,Number of cases,308906.0
+Provincial,British Columbia,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,63.9124839124839
+Provincial,British Columbia,Hip Replacement,50th Percentile,2023FY,Days,127.0
+Provincial,British Columbia,Hip Replacement,90th Percentile,2023FY,Days,350.0
+Provincial,British Columbia,Hip Replacement,Volume,2023FY,Number of cases,7770.0
+Provincial,British Columbia,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,55.3754490493297
+Provincial,British Columbia,Knee Replacement,50th Percentile,2023FY,Days,161.0
+Provincial,British Columbia,Knee Replacement,90th Percentile,2023FY,Days,400.0
+Provincial,British Columbia,Knee Replacement,Volume,2023FY,Number of cases,11413.0
+Provincial,British Columbia,Lung Cancer Surgery,50th Percentile,2023FY,Days,27.0
+Provincial,British Columbia,Lung Cancer Surgery,90th Percentile,2023FY,Days,70.0
+Provincial,British Columbia,Lung Cancer Surgery,Volume,2023FY,Number of cases,1127.0
+Provincial,British Columbia,MRI Scan,50th Percentile,2023FY,Days,77.0
+Provincial,British Columbia,MRI Scan,90th Percentile,2023FY,Days,182.0
+Provincial,British Columbia,MRI Scan,Volume,2023FY,Number of cases,202392.0
+Provincial,British Columbia,Prostate Cancer Surgery,50th Percentile,2023FY,Days,41.0
+Provincial,British Columbia,Prostate Cancer Surgery,90th Percentile,2023FY,Days,109.0
+Provincial,British Columbia,Prostate Cancer Surgery,Volume,2023FY,Number of cases,1034.0
+Provincial,British Columbia,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,76.2142699684033
+Provincial,British Columbia,Radiation Therapy,50th Percentile,2023FY,Days,17.0
+Provincial,British Columbia,Radiation Therapy,90th Percentile,2023FY,Days,48.0
+Provincial,British Columbia,Radiation Therapy,Volume,2023FY,Number of cases,13609.0
+Provincial,Manitoba,Bladder Cancer Surgery,50th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,90th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Bladder Cancer Surgery,Volume,2023FY,Number of cases,N/A
+Provincial,Manitoba,Breast Cancer Surgery,50th Percentile,2023FY,Days,29.0
+Provincial,Manitoba,Breast Cancer Surgery,90th Percentile,2023FY,Days,62.0
+Provincial,Manitoba,Breast Cancer Surgery,Volume,2023FY,Number of cases,542.0
+Provincial,Manitoba,CABG,50th Percentile,2023FY,Days,11.0
+Provincial,Manitoba,CABG,90th Percentile,2023FY,Days,61.0
+Provincial,Manitoba,CABG,Volume,2023FY,Number of cases,303.0
+Provincial,Manitoba,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,65.0
+Provincial,Manitoba,Cataract Surgery,50th Percentile,2023FY,Days,71.0
+Provincial,Manitoba,Cataract Surgery,90th Percentile,2023FY,Days,329.0
+Provincial,Manitoba,Cataract Surgery,Volume,2023FY,Number of cases,8916.0
+Provincial,Manitoba,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,N/A
+Provincial,Manitoba,CT Scan,50th Percentile,2023FY,Days,40.0
+Provincial,Manitoba,CT Scan,90th Percentile,2023FY,Days,134.0
+Provincial,Manitoba,CT Scan,Volume,2023FY,Number of cases,50491.0
+Provincial,Manitoba,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,60.0
+Provincial,Manitoba,Hip Replacement,50th Percentile,2023FY,Days,148.0
+Provincial,Manitoba,Hip Replacement,90th Percentile,2023FY,Days,462.0
+Provincial,Manitoba,Hip Replacement,Volume,2023FY,Number of cases,2011.0
+Provincial,Manitoba,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,44.0
+Provincial,Manitoba,Knee Replacement,50th Percentile,2023FY,Days,211.0
+Provincial,Manitoba,Knee Replacement,90th Percentile,2023FY,Days,633.0
+Provincial,Manitoba,Knee Replacement,Volume,2023FY,Number of cases,3627.0
+Provincial,Manitoba,Lung Cancer Surgery,50th Percentile,2023FY,Days,30.0
+Provincial,Manitoba,Lung Cancer Surgery,90th Percentile,2023FY,Days,98.0
+Provincial,Manitoba,Lung Cancer Surgery,Volume,2023FY,Number of cases,321.0
+Provincial,Manitoba,MRI Scan,50th Percentile,2023FY,Days,99.0
+Provincial,Manitoba,MRI Scan,90th Percentile,2023FY,Days,283.0
+Provincial,Manitoba,MRI Scan,Volume,2023FY,Number of cases,37605.0
+Provincial,Manitoba,Prostate Cancer Surgery,50th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,90th Percentile,2023FY,Days,N/A
+Provincial,Manitoba,Prostate Cancer Surgery,Volume,2023FY,Number of cases,N/A
+Provincial,Manitoba,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,98.0
+Provincial,Manitoba,Radiation Therapy,50th Percentile,2023FY,Days,18.0
+Provincial,Manitoba,Radiation Therapy,90th Percentile,2023FY,Days,28.0
+Provincial,Manitoba,Radiation Therapy,Volume,2023FY,Number of cases,3867.0
+Provincial,New Brunswick,Bladder Cancer Surgery,50th Percentile,2023FY,Days,27.0
+Provincial,New Brunswick,Bladder Cancer Surgery,90th Percentile,2023FY,Days,59.0
+Provincial,New Brunswick,Bladder Cancer Surgery,Volume,2023FY,Number of cases,635.0
+Provincial,New Brunswick,Breast Cancer Surgery,50th Percentile,2023FY,Days,23.0
+Provincial,New Brunswick,Breast Cancer Surgery,90th Percentile,2023FY,Days,52.0
+Provincial,New Brunswick,Breast Cancer Surgery,Volume,2023FY,Number of cases,787.0
+Provincial,New Brunswick,CABG,50th Percentile,2023FY,Days,9.0
+Provincial,New Brunswick,CABG,90th Percentile,2023FY,Days,132.0
+Provincial,New Brunswick,CABG,Volume,2023FY,Number of cases,403.0
+Provincial,New Brunswick,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,63.9042491268917
+Provincial,New Brunswick,Cataract Surgery,50th Percentile,2023FY,Days,58.0
+Provincial,New Brunswick,Cataract Surgery,90th Percentile,2023FY,Days,324.0
+Provincial,New Brunswick,Cataract Surgery,Volume,2023FY,Number of cases,13744.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,23.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,52.0
+Provincial,New Brunswick,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,475.0
+Provincial,New Brunswick,CT Scan,50th Percentile,2023FY,Days,N/A
+Provincial,New Brunswick,CT Scan,90th Percentile,2023FY,Days,N/A
+Provincial,New Brunswick,CT Scan,Volume,2023FY,Number of cases,N/A
+Provincial,New Brunswick,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,41.1295681063123
+Provincial,New Brunswick,Hip Replacement,50th Percentile,2023FY,Days,229.0
+Provincial,New Brunswick,Hip Replacement,90th Percentile,2023FY,Days,411.0
+Provincial,New Brunswick,Hip Replacement,Volume,2023FY,Number of cases,1505.0
+Provincial,New Brunswick,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,36.1897475133894
+Provincial,New Brunswick,Knee Replacement,50th Percentile,2023FY,Days,246.0
+Provincial,New Brunswick,Knee Replacement,90th Percentile,2023FY,Days,498.0
+Provincial,New Brunswick,Knee Replacement,Volume,2023FY,Number of cases,2614.0
+Provincial,New Brunswick,Lung Cancer Surgery,50th Percentile,2023FY,Days,34.0
+Provincial,New Brunswick,Lung Cancer Surgery,90th Percentile,2023FY,Days,72.0
+Provincial,New Brunswick,Lung Cancer Surgery,Volume,2023FY,Number of cases,166.0
+Provincial,New Brunswick,MRI Scan,50th Percentile,2023FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,90th Percentile,2023FY,Days,N/A
+Provincial,New Brunswick,MRI Scan,Volume,2023FY,Number of cases,N/A
+Provincial,New Brunswick,Prostate Cancer Surgery,50th Percentile,2023FY,Days,55.0
+Provincial,New Brunswick,Prostate Cancer Surgery,90th Percentile,2023FY,Days,117.0
+Provincial,New Brunswick,Prostate Cancer Surgery,Volume,2023FY,Number of cases,214.0
+Provincial,New Brunswick,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,89.2
+Provincial,New Brunswick,Radiation Therapy,50th Percentile,2023FY,Days,12.0
+Provincial,New Brunswick,Radiation Therapy,90th Percentile,2023FY,Days,29.0
+Provincial,New Brunswick,Radiation Therapy,Volume,2023FY,Number of cases,2326.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,50th Percentile,2023FY,Days,27.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,90th Percentile,2023FY,Days,48.0
+Provincial,Newfoundland and Labrador,Bladder Cancer Surgery,Volume,2023FY,Number of cases,166.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,50th Percentile,2023FY,Days,22.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,90th Percentile,2023FY,Days,59.0
+Provincial,Newfoundland and Labrador,Breast Cancer Surgery,Volume,2023FY,Number of cases,353.0
+Provincial,Newfoundland and Labrador,CABG,50th Percentile,2023FY,Days,13.0
+Provincial,Newfoundland and Labrador,CABG,90th Percentile,2023FY,Days,154.0
+Provincial,Newfoundland and Labrador,CABG,Volume,2023FY,Number of cases,369.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,49.8272884283247
+Provincial,Newfoundland and Labrador,Cataract Surgery,50th Percentile,2023FY,Days,114.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,90th Percentile,2023FY,Days,286.0
+Provincial,Newfoundland and Labrador,Cataract Surgery,Volume,2023FY,Number of cases,2316.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,15.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,31.0
+Provincial,Newfoundland and Labrador,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,243.0
+Provincial,Newfoundland and Labrador,CT Scan,50th Percentile,2023FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,90th Percentile,2023FY,Days,N/A
+Provincial,Newfoundland and Labrador,CT Scan,Volume,2023FY,Number of cases,100143.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2023FY,Proportion,93.83562
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2023FY,Hours,22.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2023FY,Hours,45.0
+Provincial,Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,Volume,2023FY,Number of cases,292.0
+Provincial,Newfoundland and Labrador,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,49.7093023255814
+Provincial,Newfoundland and Labrador,Hip Replacement,50th Percentile,2023FY,Days,185.0
+Provincial,Newfoundland and Labrador,Hip Replacement,90th Percentile,2023FY,Days,605.0
+Provincial,Newfoundland and Labrador,Hip Replacement,Volume,2023FY,Number of cases,688.0
+Provincial,Newfoundland and Labrador,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,34.975845410628
+Provincial,Newfoundland and Labrador,Knee Replacement,50th Percentile,2023FY,Days,270.0
+Provincial,Newfoundland and Labrador,Knee Replacement,90th Percentile,2023FY,Days,709.0
+Provincial,Newfoundland and Labrador,Knee Replacement,Volume,2023FY,Number of cases,1035.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,50th Percentile,2023FY,Days,19.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,90th Percentile,2023FY,Days,36.0
+Provincial,Newfoundland and Labrador,Lung Cancer Surgery,Volume,2023FY,Number of cases,55.0
+Provincial,Newfoundland and Labrador,MRI Scan,50th Percentile,2023FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,90th Percentile,2023FY,Days,N/A
+Provincial,Newfoundland and Labrador,MRI Scan,Volume,2023FY,Number of cases,22060.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,50th Percentile,2023FY,Days,38.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,90th Percentile,2023FY,Days,82.0
+Provincial,Newfoundland and Labrador,Prostate Cancer Surgery,Volume,2023FY,Number of cases,90.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,66.9535283993115
+Provincial,Newfoundland and Labrador,Radiation Therapy,50th Percentile,2023FY,Days,22.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,90th Percentile,2023FY,Days,50.0
+Provincial,Newfoundland and Labrador,Radiation Therapy,Volume,2023FY,Number of cases,1162.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,50th Percentile,2023FY,Days,38.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,90th Percentile,2023FY,Days,175.0
+Provincial,Nova Scotia,Bladder Cancer Surgery,Volume,2023FY,Number of cases,979.0
+Provincial,Nova Scotia,Breast Cancer Surgery,50th Percentile,2023FY,Days,23.0
+Provincial,Nova Scotia,Breast Cancer Surgery,90th Percentile,2023FY,Days,50.0
+Provincial,Nova Scotia,Breast Cancer Surgery,Volume,2023FY,Number of cases,977.0
+Provincial,Nova Scotia,CABG,50th Percentile,2023FY,Days,7.0
+Provincial,Nova Scotia,CABG,90th Percentile,2023FY,Days,41.0
+Provincial,Nova Scotia,CABG,Volume,2023FY,Number of cases,348.0
+Provincial,Nova Scotia,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,70.5467708134883
+Provincial,Nova Scotia,Cataract Surgery,50th Percentile,2023FY,Days,63.0
+Provincial,Nova Scotia,Cataract Surgery,90th Percentile,2023FY,Days,243.0
+Provincial,Nova Scotia,Cataract Surgery,Volume,2023FY,Number of cases,10498.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,27.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,63.0
+Provincial,Nova Scotia,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,529.0
+Provincial,Nova Scotia,CT Scan,50th Percentile,2023FY,Days,44.0
+Provincial,Nova Scotia,CT Scan,90th Percentile,2023FY,Days,162.0
+Provincial,Nova Scotia,CT Scan,Volume,2023FY,Number of cases,76788.0
+Provincial,Nova Scotia,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,57.8888888888889
+Provincial,Nova Scotia,Hip Replacement,50th Percentile,2023FY,Days,139.0
+Provincial,Nova Scotia,Hip Replacement,90th Percentile,2023FY,Days,577.0
+Provincial,Nova Scotia,Hip Replacement,Volume,2023FY,Number of cases,1800.0
+Provincial,Nova Scotia,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,47.7346278317152
+Provincial,Nova Scotia,Knee Replacement,50th Percentile,2023FY,Days,199.0
+Provincial,Nova Scotia,Knee Replacement,90th Percentile,2023FY,Days,613.0
+Provincial,Nova Scotia,Knee Replacement,Volume,2023FY,Number of cases,2472.0
+Provincial,Nova Scotia,Lung Cancer Surgery,50th Percentile,2023FY,Days,39.0
+Provincial,Nova Scotia,Lung Cancer Surgery,90th Percentile,2023FY,Days,94.0
+Provincial,Nova Scotia,Lung Cancer Surgery,Volume,2023FY,Number of cases,442.0
+Provincial,Nova Scotia,MRI Scan,50th Percentile,2023FY,Days,70.0
+Provincial,Nova Scotia,MRI Scan,90th Percentile,2023FY,Days,343.0
+Provincial,Nova Scotia,MRI Scan,Volume,2023FY,Number of cases,22659.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,50th Percentile,2023FY,Days,115.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,90th Percentile,2023FY,Days,218.0
+Provincial,Nova Scotia,Prostate Cancer Surgery,Volume,2023FY,Number of cases,261.0
+Provincial,Nova Scotia,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,72.0
+Provincial,Nova Scotia,Radiation Therapy,50th Percentile,2023FY,Days,20.0
+Provincial,Nova Scotia,Radiation Therapy,90th Percentile,2023FY,Days,40.0
+Provincial,Nova Scotia,Radiation Therapy,Volume,2023FY,Number of cases,2842.0
+Provincial,Ontario,Bladder Cancer Surgery,50th Percentile,2023FY,Days,27.0
+Provincial,Ontario,Bladder Cancer Surgery,90th Percentile,2023FY,Days,71.0
+Provincial,Ontario,Bladder Cancer Surgery,Volume,2023FY,Number of cases,11997.0
+Provincial,Ontario,Breast Cancer Surgery,50th Percentile,2023FY,Days,20.0
+Provincial,Ontario,Breast Cancer Surgery,90th Percentile,2023FY,Days,40.0
+Provincial,Ontario,Breast Cancer Surgery,Volume,2023FY,Number of cases,13850.0
+Provincial,Ontario,CABG,50th Percentile,2023FY,Days,8.0
+Provincial,Ontario,CABG,90th Percentile,2023FY,Days,79.0
+Provincial,Ontario,CABG,Volume,2023FY,Number of cases,6402.0
+Provincial,Ontario,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,65.3220455932698
+Provincial,Ontario,Cataract Surgery,50th Percentile,2023FY,Days,73.0
+Provincial,Ontario,Cataract Surgery,90th Percentile,2023FY,Days,269.0
+Provincial,Ontario,Cataract Surgery,Volume,2023FY,Number of cases,150724.0
+Provincial,Ontario,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,21.0
+Provincial,Ontario,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,47.0
+Provincial,Ontario,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,5022.0
+Provincial,Ontario,CT Scan,50th Percentile,2023FY,Days,9.0
+Provincial,Ontario,CT Scan,90th Percentile,2023FY,Days,101.0
+Provincial,Ontario,CT Scan,Volume,2023FY,Number of cases,1202576.0
+Provincial,Ontario,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,79.7009878081338
+Provincial,Ontario,Hip Replacement,50th Percentile,2023FY,Days,91.0
+Provincial,Ontario,Hip Replacement,90th Percentile,2023FY,Days,269.0
+Provincial,Ontario,Hip Replacement,Volume,2023FY,Number of cases,22474.0
+Provincial,Ontario,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,76.7705769756631
+Provincial,Ontario,Knee Replacement,50th Percentile,2023FY,Days,96.0
+Provincial,Ontario,Knee Replacement,90th Percentile,2023FY,Days,295.0
+Provincial,Ontario,Knee Replacement,Volume,2023FY,Number of cases,36570.0
+Provincial,Ontario,Lung Cancer Surgery,50th Percentile,2023FY,Days,22.0
+Provincial,Ontario,Lung Cancer Surgery,90th Percentile,2023FY,Days,48.0
+Provincial,Ontario,Lung Cancer Surgery,Volume,2023FY,Number of cases,3335.0
+Provincial,Ontario,MRI Scan,50th Percentile,2023FY,Days,41.0
+Provincial,Ontario,MRI Scan,90th Percentile,2023FY,Days,162.0
+Provincial,Ontario,MRI Scan,Volume,2023FY,Number of cases,802375.0
+Provincial,Ontario,Prostate Cancer Surgery,50th Percentile,2023FY,Days,48.0
+Provincial,Ontario,Prostate Cancer Surgery,90th Percentile,2023FY,Days,127.0
+Provincial,Ontario,Prostate Cancer Surgery,Volume,2023FY,Number of cases,2654.0
+Provincial,Ontario,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,97.77
+Provincial,Ontario,Radiation Therapy,50th Percentile,2023FY,Days,11.2
+Provincial,Ontario,Radiation Therapy,90th Percentile,2023FY,Days,18.9
+Provincial,Ontario,Radiation Therapy,Volume,2023FY,Number of cases,39448.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,50th Percentile,2023FY,Days,24.0
+Provincial,Prince Edward Island,Bladder Cancer Surgery,90th Percentile,2023FY,Days,45.8
+Provincial,Prince Edward Island,Bladder Cancer Surgery,Volume,2023FY,Number of cases,85.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,50th Percentile,2023FY,Days,16.0
+Provincial,Prince Edward Island,Breast Cancer Surgery,90th Percentile,2023FY,Days,49.5
+Provincial,Prince Edward Island,Breast Cancer Surgery,Volume,2023FY,Number of cases,96.0
+Provincial,Prince Edward Island,CABG,50th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,CABG,90th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,CABG,Volume,2023FY,Number of cases,N/A
+Provincial,Prince Edward Island,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,20.3
+Provincial,Prince Edward Island,Cataract Surgery,50th Percentile,2023FY,Days,253.9
+Provincial,Prince Edward Island,Cataract Surgery,90th Percentile,2023FY,Days,645.4
+Provincial,Prince Edward Island,Cataract Surgery,Volume,2023FY,Number of cases,1368.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,17.5
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,40.0
+Provincial,Prince Edward Island,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,64.0
+Provincial,Prince Edward Island,CT Scan,50th Percentile,2023FY,Days,13.4
+Provincial,Prince Edward Island,CT Scan,90th Percentile,2023FY,Days,194.2
+Provincial,Prince Edward Island,CT Scan,Volume,2023FY,Number of cases,15625.0
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,% Meeting Benchmark,2023FY,Proportion,86.7
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,50th Percentile,2023FY,Hours,20.3
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,90th Percentile,2023FY,Hours,55.3
+Provincial,Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,Volume,2023FY,Number of cases,203.0
+Provincial,Prince Edward Island,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,41.1
+Provincial,Prince Edward Island,Hip Replacement,50th Percentile,2023FY,Days,218.5
+Provincial,Prince Edward Island,Hip Replacement,90th Percentile,2023FY,Days,497.9
+Provincial,Prince Edward Island,Hip Replacement,Volume,2023FY,Number of cases,236.0
+Provincial,Prince Edward Island,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,24.4
+Provincial,Prince Edward Island,Knee Replacement,50th Percentile,2023FY,Days,288.5
+Provincial,Prince Edward Island,Knee Replacement,90th Percentile,2023FY,Days,622.0
+Provincial,Prince Edward Island,Knee Replacement,Volume,2023FY,Number of cases,356.0
+Provincial,Prince Edward Island,Lung Cancer Surgery,50th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,90th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,Lung Cancer Surgery,Volume,2023FY,Number of cases,N/A
+Provincial,Prince Edward Island,MRI Scan,50th Percentile,2023FY,Days,25.0
+Provincial,Prince Edward Island,MRI Scan,90th Percentile,2023FY,Days,238.9
+Provincial,Prince Edward Island,MRI Scan,Volume,2023FY,Number of cases,2617.0
+Provincial,Prince Edward Island,Prostate Cancer Surgery,50th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,90th Percentile,2023FY,Days,N/A
+Provincial,Prince Edward Island,Prostate Cancer Surgery,Volume,2023FY,Number of cases,N/A
+Provincial,Prince Edward Island,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,97.5
+Provincial,Prince Edward Island,Radiation Therapy,50th Percentile,2023FY,Days,12.6
+Provincial,Prince Edward Island,Radiation Therapy,90th Percentile,2023FY,Days,21.3
+Provincial,Prince Edward Island,Radiation Therapy,Volume,2023FY,Number of cases,549.0
+Provincial,Quebec,Bladder Cancer Surgery,50th Percentile,2023FY,Days,29.0
+Provincial,Quebec,Bladder Cancer Surgery,90th Percentile,2023FY,Days,62.0
+Provincial,Quebec,Bladder Cancer Surgery,Volume,2023FY,Number of cases,7647.0
+Provincial,Quebec,Breast Cancer Surgery,50th Percentile,2023FY,Days,25.0
+Provincial,Quebec,Breast Cancer Surgery,90th Percentile,2023FY,Days,51.0
+Provincial,Quebec,Breast Cancer Surgery,Volume,2023FY,Number of cases,9473.0
+Provincial,Quebec,CABG,50th Percentile,2023FY,Days,N/A
+Provincial,Quebec,CABG,90th Percentile,2023FY,Days,N/A
+Provincial,Quebec,CABG,Volume,2023FY,Number of cases,6493.0
+Provincial,Quebec,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,69.6738696738697
+Provincial,Quebec,Cataract Surgery,50th Percentile,2023FY,Days,64.0
+Provincial,Quebec,Cataract Surgery,90th Percentile,2023FY,Days,217.0
+Provincial,Quebec,Cataract Surgery,Volume,2023FY,Number of cases,95238.0
+Provincial,Quebec,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,24.0
+Provincial,Quebec,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,48.0
+Provincial,Quebec,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,3738.0
+Provincial,Quebec,CT Scan,50th Percentile,2023FY,Days,N/A
+Provincial,Quebec,CT Scan,90th Percentile,2023FY,Days,N/A
+Provincial,Quebec,CT Scan,Volume,2023FY,Number of cases,N/A
+Provincial,Quebec,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,48.932831136221
+Provincial,Quebec,Hip Replacement,50th Percentile,2023FY,Days,188.0
+Provincial,Quebec,Hip Replacement,90th Percentile,2023FY,Days,434.0
+Provincial,Quebec,Hip Replacement,Volume,2023FY,Number of cases,9558.0
+Provincial,Quebec,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,37.4485898942421
+Provincial,Quebec,Knee Replacement,50th Percentile,2023FY,Days,249.0
+Provincial,Quebec,Knee Replacement,90th Percentile,2023FY,Days,553.0
+Provincial,Quebec,Knee Replacement,Volume,2023FY,Number of cases,13616.0
+Provincial,Quebec,Lung Cancer Surgery,50th Percentile,2023FY,Days,26.0
+Provincial,Quebec,Lung Cancer Surgery,90th Percentile,2023FY,Days,63.0
+Provincial,Quebec,Lung Cancer Surgery,Volume,2023FY,Number of cases,2950.0
+Provincial,Quebec,MRI Scan,50th Percentile,2023FY,Days,N/A
+Provincial,Quebec,MRI Scan,90th Percentile,2023FY,Days,N/A
+Provincial,Quebec,MRI Scan,Volume,2023FY,Number of cases,N/A
+Provincial,Quebec,Prostate Cancer Surgery,50th Percentile,2023FY,Days,49.5
+Provincial,Quebec,Prostate Cancer Surgery,90th Percentile,2023FY,Days,104.0
+Provincial,Quebec,Prostate Cancer Surgery,Volume,2023FY,Number of cases,1602.0
+Provincial,Quebec,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,95.0
+Provincial,Quebec,Radiation Therapy,50th Percentile,2023FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,90th Percentile,2023FY,Days,N/A
+Provincial,Quebec,Radiation Therapy,Volume,2023FY,Number of cases,30480.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,50th Percentile,2023FY,Days,20.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,90th Percentile,2023FY,Days,36.0
+Provincial,Saskatchewan,Bladder Cancer Surgery,Volume,2023FY,Number of cases,569.0
+Provincial,Saskatchewan,Breast Cancer Surgery,50th Percentile,2023FY,Days,22.0
+Provincial,Saskatchewan,Breast Cancer Surgery,90th Percentile,2023FY,Days,56.0
+Provincial,Saskatchewan,Breast Cancer Surgery,Volume,2023FY,Number of cases,1196.0
+Provincial,Saskatchewan,CABG,50th Percentile,2023FY,Days,5.0
+Provincial,Saskatchewan,CABG,90th Percentile,2023FY,Days,49.0
+Provincial,Saskatchewan,CABG,Volume,2023FY,Number of cases,326.0
+Provincial,Saskatchewan,Cataract Surgery,% Meeting Benchmark,2023FY,Proportion,69.4936345362305
+Provincial,Saskatchewan,Cataract Surgery,50th Percentile,2023FY,Days,70.0
+Provincial,Saskatchewan,Cataract Surgery,90th Percentile,2023FY,Days,200.0
+Provincial,Saskatchewan,Cataract Surgery,Volume,2023FY,Number of cases,10447.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,50th Percentile,2023FY,Days,20.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,90th Percentile,2023FY,Days,38.0
+Provincial,Saskatchewan,Colorectal Cancer Surgery,Volume,2023FY,Number of cases,413.0
+Provincial,Saskatchewan,CT Scan,50th Percentile,2023FY,Days,22.0
+Provincial,Saskatchewan,CT Scan,90th Percentile,2023FY,Days,92.0
+Provincial,Saskatchewan,CT Scan,Volume,2023FY,Number of cases,53416.0
+Provincial,Saskatchewan,Hip Replacement,% Meeting Benchmark,2023FY,Proportion,46.757954087797
+Provincial,Saskatchewan,Hip Replacement,50th Percentile,2023FY,Days,212.0
+Provincial,Saskatchewan,Hip Replacement,90th Percentile,2023FY,Days,592.0
+Provincial,Saskatchewan,Hip Replacement,Volume,2023FY,Number of cases,2483.0
+Provincial,Saskatchewan,Knee Replacement,% Meeting Benchmark,2023FY,Proportion,33.9972527472528
+Provincial,Saskatchewan,Knee Replacement,50th Percentile,2023FY,Days,307.0
+Provincial,Saskatchewan,Knee Replacement,90th Percentile,2023FY,Days,674.0
+Provincial,Saskatchewan,Knee Replacement,Volume,2023FY,Number of cases,4368.0
+Provincial,Saskatchewan,Lung Cancer Surgery,50th Percentile,2023FY,Days,22.5
+Provincial,Saskatchewan,Lung Cancer Surgery,90th Percentile,2023FY,Days,41.5
+Provincial,Saskatchewan,Lung Cancer Surgery,Volume,2023FY,Number of cases,160.0
+Provincial,Saskatchewan,MRI Scan,50th Percentile,2023FY,Days,39.0
+Provincial,Saskatchewan,MRI Scan,90th Percentile,2023FY,Days,260.0
+Provincial,Saskatchewan,MRI Scan,Volume,2023FY,Number of cases,25954.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,50th Percentile,2023FY,Days,54.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,90th Percentile,2023FY,Days,120.0
+Provincial,Saskatchewan,Prostate Cancer Surgery,Volume,2023FY,Number of cases,281.0
+Provincial,Saskatchewan,Radiation Therapy,% Meeting Benchmark,2023FY,Proportion,98.38
+Provincial,Saskatchewan,Radiation Therapy,50th Percentile,2023FY,Days,9.0
+Provincial,Saskatchewan,Radiation Therapy,90th Percentile,2023FY,Days,20.0
+Provincial,Saskatchewan,Radiation Therapy,Volume,2023FY,Number of cases,2596.0
